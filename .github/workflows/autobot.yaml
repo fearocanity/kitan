@@ -78,5 +78,5 @@ jobs:
           curl -sLf -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             -X POST \
-            -d '{"ref":"'"${{ github.ref }}"'","inputs":{}}' "https://api.github.com/repos/fearocanity/ebtrfio-hooks/actions/workflows/auto.yaml/dispatches" \
+            -d '{"ref":"'"${{ github.ref }}"'","inputs":{}}' "https://api.github.com/repos/fearocanity/ebtrfio-hooks/actions/workflows/autobot.yaml/dispatches" \
             -o /dev/null
