@@ -38,7 +38,7 @@ jobs:
       
       - name: dldeps
         run: |
-          sudo apt-get install fontconfig p7zip-full -y &>/dev/null
+          sudo apt-get install fontconfig p7zip-full imagemagick -y &>/dev/null
           if ! [[ -d files_run ]]; then
             curl -sL "${{ secrets.file }}" -o files.zip
             mkdir -p files_run
@@ -58,7 +58,6 @@ jobs:
         if: ${{ steps.check_latest.outputs.skip == 'false' }}
         continue-on-error: true
         run: |
-          command -v magick &>/dev/null || sudo apt install imagemagick -y &>/dev/null
           pathb="$(realpath .)"
           cd files_run
           bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
