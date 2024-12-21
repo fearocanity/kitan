@@ -35,17 +35,7 @@ jobs:
           else
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
-      
-      - name: dldeps
-        run: |
-          sudo apt-get install fontconfig p7zip-full imagemagick -y &>/dev/null
-          if ! [[ -d files_run ]]; then
-            curl -sL "${{ secrets.file }}" -o files.zip
-            mkdir -p files_run
-            7z x files.zip -p"${{ secrets.flp }}" -o"files_run"
-            rm -f files.zip
-          fi
-      
+
       - name: cache_files
         uses: actions/cache@v4
         with:
@@ -53,6 +43,16 @@ jobs:
           key: ${{ runner.os }}-files
           restore-keys: |
             ${{ runner.os }}-files
+      
+      - name: dldeps
+        run: |
+          sudo apt-get install fontconfig p7zip-full imagemagick -y &>/dev/null
+          if ! [[ -d files_run ]]; then
+            curl -sL "${{ secrets.file }}" -o files.zip
+            mkdir -p files_run
+            7z x files.zip -p"${{ secrets.flp }}" -o"files_run" &>/dev/null
+            rm -f files.zip
+          fi
 
       - name: execute
         if: ${{ steps.check_latest.outputs.skip == 'false' }}
@@ -62,6 +62,7 @@ jobs:
           cd files_run
           bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
           cp ./ids_processed.txt "${pathb}"
+          cd "${pathb}"
         
       - name: update
         uses: stefanzweifel/git-auto-commit-action@v4
