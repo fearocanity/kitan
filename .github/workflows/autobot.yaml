@@ -76,7 +76,7 @@ jobs:
       - name: continue
         continue-on-error: true
         run: |
-          curl -sLf -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          curl -sLf -H "Authorization: Bearer ${{ secrets.GITTOK }}" \
             -H "Accept: application/vnd.github.v3+json" \
             -X POST \
             -d '{"ref":"'"${{ github.ref }}"'","inputs":{}}' "https://api.github.com/repos/${{ github.repository }}/actions/workflows/autobot.yaml/dispatches" \
