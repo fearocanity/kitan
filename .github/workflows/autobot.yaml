@@ -58,10 +58,11 @@ jobs:
         if: ${{ steps.check_latest.outputs.skip == 'false' }}
         continue-on-error: true
         run: |
+          cp -f ids_processed.txt files_run/ids_processed.txt
           pathb="$(realpath .)"
           cd files_run
           bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
-          cp ./ids_processed.txt "${pathb}"
+          cp -f ./ids_processed.txt "${pathb}"
           cd "${pathb}"
         
       - name: update
