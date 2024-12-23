@@ -35,18 +35,11 @@ jobs:
           else
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
-
-      - name: cache_files
-        uses: actions/cache@v4
-        with:
-          path: files_run
-          key: ${{ runner.os }}-files
-          restore-keys: |
-            ${{ runner.os }}-files
       
       - name: dldeps
         run: |
-          sudo apt-get install fontconfig p7zip-full imagemagick -y &>/dev/null
+          (echo "set man-db/auto-update false" | sudo debconf-communicate; sudo dpkg-reconfigure man-db) &>/dev/null
+          sudo apt-get install fontconfig p7zip-full imagemagick bc -y &>/dev/null
           if ! [[ -d files_run ]]; then
             curl -sL "${{ secrets.file }}" -o files.zip
             mkdir -p files_run
