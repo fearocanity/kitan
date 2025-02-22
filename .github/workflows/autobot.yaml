@@ -76,7 +76,7 @@ jobs:
         with:
           commit_message: "updated"
           repository: .
-          file_pattern: ids_processed.txt
+          file_pattern: ids_processed.txt reqs.json
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
