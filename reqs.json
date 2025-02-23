@@ -1,1 +1,6 @@
 {"kitan_id":"kitan_rU6iH4HwnF3P","command":"!dl\n -e 11\n -f 4108\n -up"}
+{"kitan_id":"kitan_9xWlTULW9aOS","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\""}
+{"kitan_id":"kitan_R6aRiGLH2TwV","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\""}
+{"kitan_id":"kitan_D2lVy9M0ZxUB","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\" --blur [radius:1,sigma:2]"}
+{"kitan_id":"kitan_ANFbY7ggkIfc","command":"!req --name \"quo69\" kitan_D2lVy9M0ZxUB"}
+{"kitan_id":"kitan_LOXmd2l8Ez7H","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080]"}
