@@ -64,6 +64,7 @@ jobs:
         continue-on-error: true
         run: |
           cp -f ids_processed.txt files_run/ids_processed.txt
+          cp -f reqs.json files_run/reqs.json
           pathb="$(realpath .)"
           cd files_run
           source <(echo 'export PATH="$(realpath "${pathb}"/bin/im7/bin):${PATH}"')
