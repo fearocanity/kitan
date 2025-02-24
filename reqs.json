@@ -22,3 +22,6 @@
 {"kitan_id":"kitan_7v1A3yxYkFof","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
 {"kitan_id":"kitan_o0Jy4FRrCFJu","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
 {"kitan_id":"kitan_4Z5lQylxKUdP","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.5,sigma:1.5]"}
+{"kitan_id":"kitan_H0iZ2vhAPfYj","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_pXpwuBQ9NaTC","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_tWfFZCLm9TKQ","command":"!req --name \"kikuripits\" kitan_pXpwuBQ9NaTC"}
