@@ -4,3 +4,4 @@
 {"kitan_id":"kitan_D2lVy9M0ZxUB","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\" --blur [radius:1,sigma:2]"}
 {"kitan_id":"kitan_ANFbY7ggkIfc","command":"!req --name \"quo69\" kitan_D2lVy9M0ZxUB"}
 {"kitan_id":"kitan_LOXmd2l8Ez7H","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080]"}
+{"kitan_id":"kitan_MLev7LMCMo03","command":"!dl -e op1re -f 288 -g 7"}
