@@ -25,3 +25,4 @@
 {"kitan_id":"kitan_H0iZ2vhAPfYj","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
 {"kitan_id":"kitan_pXpwuBQ9NaTC","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
 {"kitan_id":"kitan_tWfFZCLm9TKQ","command":"!req --name \"kikuripits\" kitan_pXpwuBQ9NaTC"}
+{"kitan_id":"kitan_i8Jbx6kOngC2","command":"!dl -e 9 -f 4441 -u"}
