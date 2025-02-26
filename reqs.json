@@ -77,3 +77,5 @@
 {"kitan_id":"kitan_Bbj61KvSIsSk","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:fts%\""}
 {"kitan_id":"kitan_AH6CDRKGzI0q","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:fts%\" --blur [radius:2.0,sigma:2.0]"}
 {"kitan_id":"kitan_bjDrR4QRr2fW","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_tQ4fFMCk3lPz","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay]"}
+{"kitan_id":"kitan_oPItmVjUS4pY","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay --size [width:1920]]"}
