@@ -79,3 +79,4 @@
 {"kitan_id":"kitan_bjDrR4QRr2fW","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
 {"kitan_id":"kitan_tQ4fFMCk3lPz","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay]"}
 {"kitan_id":"kitan_oPItmVjUS4pY","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay --size [width:1920]]"}
+{"kitan_id":"kitan_LbfHnDCffArp","command":"!dl -e 1 -f 1 -st \"Hello World, Test!\""}
