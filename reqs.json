@@ -87,3 +87,8 @@
 {"kitan_id":"kitan_M5UBka7OMArU","command":"!dl -e 1 -f 168 -u"}
 {"kitan_id":"kitan_vpOl2BQNRgVj","command":"!dl -e 1 -f 162"}
 {"kitan_id":"kitan_Qrh2UvIPw7Q0","command":"!dl -e 1 -f 442 -u"}
+{"kitan_id":"kitan_8iogaWjzJcLS","command":"!dl -e 1 -f 744 -u"}
+{"kitan_id":"kitan_nMqBJW27fFEl","command":"!dl -e 1 -f 777"}
+{"kitan_id":"kitan_tcjmOo2sBVDA","command":"!dl -e 1 -f 777 -u"}
+{"kitan_id":"kitan_12lrQnMEfMRq","command":"!dl -e 1 -f 744 --rblur [radius:6]"}
+{"kitan_id":"kitan_vPzIVJ0aKMVp","command":"!dl -e 1 -f 785 --rblur [radius:4]"}
