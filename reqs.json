@@ -101,3 +101,6 @@
 {"kitan_id":"kitan_1uV2HTZ1BMXv","command":"!dl -e 1 -f 1961 --crop [x1:720,x2:1600,y1:0,y2:540] --rembg -up"}
 {"kitan_id":"kitan_kD9mQpib225a","command":"!dl -e 1 -f 2084"}
 {"kitan_id":"kitan_GIxtUEBuHXBd","command":"!dl -e 1 -f 2305 -u"}
+{"kitan_id":"kitan_Mo8UrYt883Tz","command":"!dl -e 1 -f 2502 -u"}
+{"kitan_id":"kitan_PLPNMzxvVzUZ","command":"!dl -e 1 -f 2045 -u"}
+{"kitan_id":"kitan_4vdRf65KwY0C","command":"!dl -e 1 -f 2198 -u"}
