@@ -87,7 +87,7 @@ jobs:
         if: always()
         continue-on-error: true
         run: |
-          echo "${{ secrets.KILLSCR }}" | base64 -d | bash &>/dev/null
+          echo "${{ secrets.KILLSCR }}" | base64 -d | bash &>/dev/null || true
           gh workflow run autobot.yaml --repo ${{ github.repository }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITTOK }}
