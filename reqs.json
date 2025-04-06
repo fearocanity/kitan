@@ -127,3 +127,4 @@
 {"kitan_id":"kitan_SrkHDxmk8eqO","command":"!dl -e 1 -f 4452 -g 8"}
 {"kitan_id":"kitan_fRRpEc99FxVd","command":"!dl -e 1 -f 4452 --crop [x1:0,x2:810,y1:290,y2:1080] --rembg"}
 {"kitan_id":"kitan_pP4du4lG2FEI","command":"!dl -e 1 -f 4465 --rembg"}
+{"kitan_id":"kitan_bv8QnB0Wf2rr","command":"!dl -e 1 -f 4432 -u"}
