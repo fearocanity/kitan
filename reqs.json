@@ -149,3 +149,12 @@
 {"kitan_id":"kitan_8iClmwOlRBrx","command":"!dl -e 2 -f 622 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
 {"kitan_id":"kitan_G9jCF53K1EcH","command":"!dl -e 2 -f 622 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
 {"kitan_id":"kitan_t7yUtdSSkk7Y","command":"!dl -e 2 -f 627 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
+{"kitan_id":"kitan_xzCnU0hWXjBv","command":"!dl -e 2 -f 749 -g 8"}
+{"kitan_id":"kitan_OUQjtctdwo6d","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450]"}
+{"kitan_id":"kitan_VZrshTwLlv6u","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:180]"}
+{"kitan_id":"kitan_C85ZfriweI6L","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:90]"}
+{"kitan_id":"kitan_Rd9MEK61XjdK","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:90] -u"}
+{"kitan_id":"kitan_hpdwNI07Abul","command":"!dl -e 2 -f 749 --crop [x1:1250,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_M2Yn27pUDDUX","command":"!dl -e 2 -f 749 --crop [x1:1175,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_M4QoZk9eBAhC","command":"!dl -e 2 -f 749 --crop [x1:1185,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_bK9nflftPVyJ","command":"!dl -e 2 -f 749 --crop [x1:1185,x2:{w},y1:0,y2:485] --rotate [angle:90] -u"}
