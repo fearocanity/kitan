@@ -160,3 +160,4 @@
 {"kitan_id":"kitan_bK9nflftPVyJ","command":"!dl -e 2 -f 749 --crop [x1:1185,x2:{w},y1:0,y2:485] --rotate [angle:90] -u"}
 {"kitan_id":"kitan_4uGG8SjR6ewZ","command":"!dl -e 2 -f 981 -up"}
 {"kitan_id":"kitan_AQ3m8SNNKuoL","command":"!dl -e 2 -f 981 -u"}
+{"kitan_id":"kitan_2r1UaQWrPU2W","command":"!dl -e 2 -f 1199 -u"}
