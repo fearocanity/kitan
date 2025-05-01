@@ -162,3 +162,5 @@
 {"kitan_id":"kitan_AQ3m8SNNKuoL","command":"!dl -e 2 -f 981 -u"}
 {"kitan_id":"kitan_2r1UaQWrPU2W","command":"!dl -e 2 -f 1199 -u"}
 {"kitan_id":"kitan_f4WXRBPpvnwg","command":"!dl -e 2 -f 1470 -u"}
+{"kitan_id":"kitan_58UV2fnzD5Yg","command":"!dl -e 2 -f 1499 -g 8"}
+{"kitan_id":"kitan_AsIgEYsUlQVe","command":"!dl -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -u"}
