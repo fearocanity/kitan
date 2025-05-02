@@ -170,3 +170,30 @@
 {"kitan_id":"kitan_Td2LU5IvXsjp","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:5%\""}
 {"kitan_id":"kitan_QUkrcUq0EXSz","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:3.5%\""}
 {"kitan_id":"kitan_Uz8KRCUriqTp","command":"!dl -f 1597 -e 02 -g 8"}
+{"kitan_id":"kitan_cdmSEXIBDGaM","command":"!dl -f 1597 -e 02 -g 10"}
+{"kitan_id":"kitan_ikTwigNpk8Gh","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg"}
+{"kitan_id":"kitan_lEqpGRuTxgu1","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg"}
+{"kitan_id":"kitan_2tOONtsjwtPy","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --append [--url ibb:k6JQ55hx --append-type overlay]"}
+{"kitan_id":"kitan_MrH9MbQBQaGi","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --append [--url ibb:k6JQ55hx --append-type bg]"}
+{"kitan_id":"kitan_6Sl3kYWJF1vl","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx --append-type bg]"}
+{"kitan_id":"kitan_u8xySnubCMYm","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx]"}
+{"kitan_id":"kitan_2yoExfv4QzQe","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx -at stick]"}
+{"kitan_id":"kitan_uVKpcsSkOCvE","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url https://i.ibb.co/DgY5zz7t/20250502-103311.jpg -at stick]"}
+{"kitan_id":"kitan_vDduvCFY7WUh","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx --size [h:1080] --swap]"}
+{"kitan_id":"kitan_WHDC4pscfbMJ","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url imgur:iyf7Ck8 --size [h:1080] --swap]"}
+{"kitan_id":"kitan_7XAbJRikfDyd","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_JP4hzJgRegrQ","command":"!dl -f 1597 -e 02 --append [--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_d8E9YN8UULJQ","command":"!dl -f 1597 -e 02 --append [--url imgur:iyf7Ck8 --size [h:1080]]"}
+{"kitan_id":"kitan_GUXtBeoffoq7","command":"!dl -f 1597 -e 02 --append [-f 1597 -e 2]"}
+{"kitan_id":"kitan_g4JEttCuLijY","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_ehgUEIhqX90W","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size [w:1920] -at ol]"}
+{"kitan_id":"kitan_6MyEjnelMkCq","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size h:1080 -at ol]"}
+{"kitan_id":"kitan_8mJs8r4arCBT","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size h:1080 -at ol]"}
+{"kitan_id":"kitan_LuP0DIw89EOw","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8]"}
+{"kitan_id":"kitan_EPW1Tyh7czbI","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick]"}
+{"kitan_id":"kitan_zrXkh7gyN6lv","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}]"}
+{"kitan_id":"kitan_CShr9O1BdX9u","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --append [f:-f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg]"}
+{"kitan_id":"kitan_SEne7hIXbgOl","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:2.1,sigma:2.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg]"}
+{"kitan_id":"kitan_zTtDej2YYjFn","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:2.1,sigma:2.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_6DEqhbFFxvDm","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_htsoZogJCrbr","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
