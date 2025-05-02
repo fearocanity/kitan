@@ -164,3 +164,9 @@
 {"kitan_id":"kitan_f4WXRBPpvnwg","command":"!dl -e 2 -f 1470 -u"}
 {"kitan_id":"kitan_58UV2fnzD5Yg","command":"!dl -e 2 -f 1499 -g 8"}
 {"kitan_id":"kitan_AsIgEYsUlQVe","command":"!dl -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -u"}
+{"kitan_id":"kitan_Q3ksc6U7WBhv","command":"!dl -e 2 -f 1592 -g 8"}
+{"kitan_id":"kitan_kwmUpYtONWmm","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%\""}
+{"kitan_id":"kitan_285iWrOiNokY","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:50%\""}
+{"kitan_id":"kitan_Td2LU5IvXsjp","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:5%\""}
+{"kitan_id":"kitan_QUkrcUq0EXSz","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:3.5%\""}
+{"kitan_id":"kitan_Uz8KRCUriqTp","command":"!dl -f 1597 -e 02 -g 8"}
