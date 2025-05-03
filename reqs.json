@@ -197,3 +197,5 @@
 {"kitan_id":"kitan_zTtDej2YYjFn","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:2.1,sigma:2.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
 {"kitan_id":"kitan_6DEqhbFFxvDm","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
 {"kitan_id":"kitan_htsoZogJCrbr","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_ql40NbSfwynb","command":"!dl -e 2 -f 1592 -u"}
+{"kitan_id":"kitan_ibeoo8v9mZlp","command":"!dl -e 02 -f 1732 --rembg"}
