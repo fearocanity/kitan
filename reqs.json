@@ -210,3 +210,7 @@
 {"kitan_id":"kitan_oZaHNgLDnOGh","command":"!dl -e 2 -f 2147 -u"}
 {"kitan_id":"kitan_JsG1M65xrTHj","command":"!dl -e 2 -f 2165 -u"}
 {"kitan_id":"kitan_xaoEEOkqMBuX","command":"!dl -e 02 -f 2304 -u"}
+{"kitan_id":"kitan_5P1Z0hhh7AMV","command":"!dl -e 2 -f 2347 -g 8"}
+{"kitan_id":"kitan_ZYFJknGIIXaN","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:810,y1:405,y2:590]"}
+{"kitan_id":"kitan_rDMPBbGX4gSP","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:890,y1:405,y2:590]"}
+{"kitan_id":"kitan_wdfFH6vHe15A","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:890,y1:405,y2:650]"}
