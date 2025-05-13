@@ -216,3 +216,7 @@
 {"kitan_id":"kitan_wdfFH6vHe15A","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:890,y1:405,y2:650]"}
 {"kitan_id":"kitan_NNOSscz2rPXf","command":"!dl -e 2 -f 2540 -u"}
 {"kitan_id":"kitan_ZYb2suPHJi2l","command":"!dl -e 2 -f 2586 -u"}
+{"kitan_id":"kitan_A5d5bCiYwtzg","command":"!dl -e 02 -f 2560 -u"}
+{"kitan_id":"kitan_OX4VDto7CYMd","command":"!dl -e 02 -f 2535 -u"}
+{"kitan_id":"kitan_J2XXiqVH7nmT","command":"!dl -e 02 -f 2532 -u"}
+{"kitan_id":"kitan_2p2tZdF4g8ih","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:890,y1:405,y2:650]"}
