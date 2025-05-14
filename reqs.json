@@ -222,3 +222,6 @@
 {"kitan_id":"kitan_2p2tZdF4g8ih","command":"!dl -e 2 -f 2347 --crop [x1:725,x2:890,y1:405,y2:650]"}
 {"kitan_id":"kitan_mIsE8mugf0WR","command":"!dl -e 02 -f 2699 -u"}
 {"kitan_id":"kitan_bmojw3mqLDzI","command":"!dl -e 02 -f 2698 -u"}
+{"kitan_id":"kitan_wwSxqof0JjlL","command":"!dl -e 2 -f 2698 --rembg"}
+{"kitan_id":"kitan_VWWIAsWUfIDB","command":"!dl -e 2 -f 2454 --append [f:-e 2 -f 2698 --rembg] -st \"no thicc thighs for u\""}
+{"kitan_id":"kitan_LKspq21hBEEK","command":"!dl -e 2 -f 2454 --append [f:-e 2 -f 2698 --rembg -at ol] -st \"no thicc thighs for u\""}
