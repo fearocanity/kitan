@@ -225,3 +225,6 @@
 {"kitan_id":"kitan_wwSxqof0JjlL","command":"!dl -e 2 -f 2698 --rembg"}
 {"kitan_id":"kitan_VWWIAsWUfIDB","command":"!dl -e 2 -f 2454 --append [f:-e 2 -f 2698 --rembg] -st \"no thicc thighs for u\""}
 {"kitan_id":"kitan_LKspq21hBEEK","command":"!dl -e 2 -f 2454 --append [f:-e 2 -f 2698 --rembg -at ol] -st \"no thicc thighs for u\""}
+{"kitan_id":"kitan_OvjRyeXLbhWT","command":"!dl -e 02 -f 2789 -u"}
+{"kitan_id":"kitan_oA21Qx4VpwGu","command":"!dl -e 02 -f 2788 -u"}
+{"kitan_id":"kitan_KcE2Yvj4EbPY","command":"!dl -e 02 -f 2775 -u"}
