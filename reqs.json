@@ -230,3 +230,9 @@
 {"kitan_id":"kitan_KcE2Yvj4EbPY","command":"!dl -e 02 -f 2775 -u"}
 {"kitan_id":"kitan_hxjgcqzUQDGp","command":"!dl -e 2 -f 2864 -u"}
 {"kitan_id":"kitan_0mWqeDad7QqU","command":"!dl -e 2 -f 2957 -u"}
+{"kitan_id":"kitan_S0orRYVClNh2","command":"!dl -e 2 -f 3062 -g 8"}
+{"kitan_id":"kitan_nTZzR95xSNlJ","command":"!dl -e 2 -f 3062 --crop [x1:810,x2:1310,y1:135,y2:610]"}
+{"kitan_id":"kitan_mAxlEP8aFEha","command":"!dl -e 2 -f 3062 --crop [x1:865,x2:1310,y1:135,y2:610]"}
+{"kitan_id":"kitan_SmqYdkkelr8x","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610]"}
+{"kitan_id":"kitan_jkmReNe1dVFR","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610] -st \"POST THIS NIJIKA!%textsize:55%%font:impact%\""}
+{"kitan_id":"kitan_flwbY1uxqYzN","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610] -st \"POST THIS NIJIKA!%textsize:35%%font:impact%\""}
