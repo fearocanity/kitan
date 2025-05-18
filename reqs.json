@@ -236,3 +236,4 @@
 {"kitan_id":"kitan_SmqYdkkelr8x","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610]"}
 {"kitan_id":"kitan_jkmReNe1dVFR","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610] -st \"POST THIS NIJIKA!%textsize:55%%font:impact%\""}
 {"kitan_id":"kitan_flwbY1uxqYzN","command":"!dl -e 2 -f 3062 --crop [x1:885,x2:1335,y1:135,y2:610] -st \"POST THIS NIJIKA!%textsize:35%%font:impact%\""}
+{"kitan_id":"kitan_FZZsun4mJmMq","command":"!dl -e 02 -f 3172 -u"}
