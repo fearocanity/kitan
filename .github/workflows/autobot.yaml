@@ -72,7 +72,7 @@ jobs:
           bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
           cp -f ./ids_processed.txt "${pathb}"
           cp -f ./reqs.json "${pathb}"
-          cp -f ./voting.json
+          cp -f ./voting.json "${pathb}"
           cd "${pathb}"
         
       - name: update
