@@ -64,6 +64,7 @@ jobs:
         continue-on-error: true
         run: |
           cp -f ids_processed.txt files_run/ids_processed.txt
+          cp -f voting.json files_run/voting.json || (echo "{}" > voting.json ; cp -f voting.json files_run/voting.json)
           cp -f reqs.json files_run/reqs.json
           pathb="$(realpath .)"
           cd files_run
@@ -71,6 +72,7 @@ jobs:
           bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
           cp -f ./ids_processed.txt "${pathb}"
           cp -f ./reqs.json "${pathb}"
+          cp -f ./voting.json
           cd "${pathb}"
         
       - name: update
@@ -78,7 +80,7 @@ jobs:
         with:
           commit_message: "updated"
           repository: .
-          file_pattern: ids_processed.txt reqs.json
+          file_pattern: ids_processed.txt reqs.json voting.json
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
