@@ -267,3 +267,4 @@
 {"kitan_id":"kitan_HlFMQrpJXDWp","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.5%%font:tdm%%bg:#000000%\""}
 {"kitan_id":"kitan_3T1WCY0KodIX","command":"dl -e 2 -f 888"}
 {"kitan_id":"kitan_P5hqYCYuyrVF","command":"dl -e 2 -f 888 -g 8"}
+{"kitan_id":"kitan_T8tagc7U01qY","command":"dl -e 2 -f 1818"}
