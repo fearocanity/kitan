@@ -268,3 +268,6 @@
 {"kitan_id":"kitan_3T1WCY0KodIX","command":"dl -e 2 -f 888"}
 {"kitan_id":"kitan_P5hqYCYuyrVF","command":"dl -e 2 -f 888 -g 8"}
 {"kitan_id":"kitan_T8tagc7U01qY","command":"dl -e 2 -f 1818"}
+{"kitan_id":"kitan_bGaZVwNzm0bX","command":"!dl"}
+{"kitan_id":"kitan_yJZHYcRtnsjP","command":"!dl -u"}
+{"kitan_id":"kitan_jCJGj3utVQxu","command":"!dl"}
