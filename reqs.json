@@ -252,3 +252,18 @@
 {"kitan_id":"kitan_5s9T1OrocRdv","command":"dl -e 2 -f 123 -u"}
 {"kitan_id":"kitan_h0HVoOP1nNre","command":"dl -e 2 -f 313 -u"}
 {"kitan_id":"kitan_MttU1nPUSW8v","command":"dl -e 2 -f 6 -st \"Ayooo\""}
+{"kitan_id":"kitan_PP0E4aYrreFZ","command":"dl -e 2 -f 277 -u"}
+{"kitan_id":"kitan_sxbwBhOfFRG7","command":"dl -e 2 -f 277 -g 8"}
+{"kitan_id":"kitan_A9pPKufClNlT","command":"dl -e 2 -f 277 --rembg"}
+{"kitan_id":"kitan_Rr2GXw6KDO5z","command":"dl -e 1 -f 777"}
+{"kitan_id":"kitan_sQTIW3Yy1xxZ","command":"dl -e 2 -f 2454 --append [f:-e 2 -f 2698 --rembg -at ol] -st \"no thicc thighs for u\""}
+{"kitan_id":"kitan_cdvduN91K04h","command":"dl -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?\""}
+{"kitan_id":"kitan_7l63VinxoUCK","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+40%%textsize:25%\""}
+{"kitan_id":"kitan_kFXgo7zSn2EP","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+40%%textsize:25%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_txShQ513WEZE","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_j1fjeUjAuY0T","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.0%%font:tdm%\""}
+{"kitan_id":"kitan_BCW2ZHuLDMP8","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.5%%font:tdm%\""}
+{"kitan_id":"kitan_T6dtBuqaUbrb","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.5%%font:tdm%%bg:black%\""}
+{"kitan_id":"kitan_HlFMQrpJXDWp","command":"dl  -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -st \"why is nijika angry?%annotate:+0+80%%textsize:45%%strokewidth:3.5%%font:tdm%%bg:#000000%\""}
+{"kitan_id":"kitan_3T1WCY0KodIX","command":"dl -e 2 -f 888"}
+{"kitan_id":"kitan_P5hqYCYuyrVF","command":"dl -e 2 -f 888 -g 8"}
