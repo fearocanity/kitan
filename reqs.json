@@ -280,3 +280,5 @@
 {"kitan_id":"kitan_xBM011oIXv8P","command":"dl -e 2 -f 4322"}
 {"kitan_id":"kitan_YI9uFxUE9QqO","command":"dl -e 2 -f 4350 -u"}
 {"kitan_id":"kitan_aRb1Zk8Q7pzy","command":"dl -e 2 -f 4350"}
+{"kitan_id":"kitan_uQJMWV5kYsDd","command":"!dl --rembg"}
+{"kitan_id":"kitan_51PGmYdosuFj","command":"!dl --append [f:--negative]"}
