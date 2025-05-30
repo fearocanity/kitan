@@ -309,3 +309,4 @@
 {"kitan_id":"kitan_aVDUmsRQUkD4","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
 {"kitan_id":"kitan_45nrqXwfKYBD","command":"!dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
 {"kitan_id":"kitan_OEvzuBWp8akk","command":"!dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
+{"kitan_id":"kitan_bIUPvF4Vypv7","command":"!dl"}
