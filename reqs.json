@@ -297,3 +297,15 @@
 {"kitan_id":"kitan_3PC8gZpQes8n","command":"dl -e 2 -f 4193"}
 {"kitan_id":"kitan_uWoftPV5mfyj","command":"dl -e 2 -f 4195"}
 {"kitan_id":"kitan_lglTEioEndmC","command":"dl -e 2 -f 4197"}
+{"kitan_id":"kitan_tsMrPyjAMSNb","command":"dl -e 2 -f 4282 -g 8"}
+{"kitan_id":"kitan_5eq4dZEKR0ed","command":"dl -e 2 -f 4282 --crop [x1:500,x2:1475,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_TUiTLNUU34XG","command":"dl -e 2 -f 4282 --crop [x1:500,x2:1475,y1:0,y2:{h}] --rembg"}
+{"kitan_id":"kitan_JQazMWu3znNP","command":"dl -e 2 -f 4286 -g 8"}
+{"kitan_id":"kitan_ZmWagYoFzGDO","command":"dl -e 2 -f 4286 --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg"}
+{"kitan_id":"kitan_v08P2sRjKYWO","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:south,+0+0]]"}
+{"kitan_id":"kitan_hDQ0FRdBO0mZ","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,+0+0]]"}
+{"kitan_id":"kitan_aKL3PzXO3Et3","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:+0,y:+0]]"}
+{"kitan_id":"kitan_E8cmXuMUIqJO","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-10,y:+0]]"}
+{"kitan_id":"kitan_aVDUmsRQUkD4","command":"dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
+{"kitan_id":"kitan_45nrqXwfKYBD","command":"!dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
+{"kitan_id":"kitan_OEvzuBWp8akk","command":"!dl -e 2 -f 4286 --append [f:--url ibb:pstLZyd --append-type ol --size [h:1080]] --append [f: -e 2 -f 4286 --append-type ol --crop [x1:525,x2:1610,y1:0,y2:{h}] --rembg --position [gravity:center,x:-100,y:+0]]"}
