@@ -332,3 +332,14 @@
 {"kitan_id":"kitan_qiyqdso3uNtI","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:820,y1:0,y2:{h}] --position [gravity:northwest,x:+728,y:+278]]"}
 {"kitan_id":"kitan_IZL9iC9eFU3w","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:810,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]]"}
 {"kitan_id":"kitan_qisHm1StdOU4","command":"!dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:810,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]]"}
+{"kitan_id":"kitan_RVM3Lm9LWMTN","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:810,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
+{"kitan_id":"kitan_VVQuX1bv2xlz","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:810,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
+{"kitan_id":"kitan_Gy6zhF0hX0Eo","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 4513 -at ol --size [h:612] --crop [x1:150,x2:810,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
+{"kitan_id":"kitan_21Hz8y85LnOr","command":"dl -e 2 -f 4343"}
+{"kitan_id":"kitan_3LPJbHY8l0wz","command":"dl -e 1 -f 69 -g 8"}
+{"kitan_id":"kitan_rxkn67cdVXjj","command":"dl -e 2 -f 69 -g 8"}
+{"kitan_id":"kitan_DaypDuAOdEOs","command":"dl -e 2 -f 4513 --crop [x1:625,x2:1285,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_3wGfdiSJ4oxU","command":"dl -e 2 -f 65 --crop [x1:625,x2:1285,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_e7OpYhLi4Jau","command":"dl -e 2 -f 69 --crop [x1:625,x2:1285,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_g8LH9LlYiNpr","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
+{"kitan_id":"kitan_rrCCfOvrWFmk","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:k2ftNpWV -at ol]"}
