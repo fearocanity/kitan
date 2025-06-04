@@ -343,3 +343,5 @@
 {"kitan_id":"kitan_e7OpYhLi4Jau","command":"dl -e 2 -f 69 --crop [x1:625,x2:1285,y1:0,y2:{h}]"}
 {"kitan_id":"kitan_g8LH9LlYiNpr","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
 {"kitan_id":"kitan_rrCCfOvrWFmk","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:k2ftNpWV -at ol]"}
+{"kitan_id":"kitan_JXJmK5vpOiWf","command":"!dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
+{"kitan_id":"kitan_8hFoMac4CZEg","command":"!dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:k2ftNpWV -at ol]"}
