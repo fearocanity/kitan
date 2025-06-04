@@ -345,3 +345,9 @@
 {"kitan_id":"kitan_rrCCfOvrWFmk","command":"dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:k2ftNpWV -at ol]"}
 {"kitan_id":"kitan_JXJmK5vpOiWf","command":"!dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:tT87jZCj -at ol]"}
 {"kitan_id":"kitan_8hFoMac4CZEg","command":"!dl -e 2 -f 4546 --append [f:-e 2 -f 69 -at ol --size [h:612] --crop [x1:625,x2:1285,y1:0,y2:{h}] --position [gravity:northwest,x:+725,y:+278]] --append [f:--url ibb:k2ftNpWV -at ol]"}
+{"kitan_id":"kitan_m7900nBTEq44","command":"!dl -e 2 -f 4628"}
+{"kitan_id":"kitan_ARclFuuM1kmn","command":"dl -e 2 -f 4628"}
+{"kitan_id":"kitan_6qS1Nkwxf4t8","command":"dl -e 2 -f 4628 --append [f:--url ibb:nqV6SLc5 -at ol] -st \"What's the next song kita-chan?\\nIs it 46269420?\\nOkay got it.\""}
+{"kitan_id":"kitan_YcJMRkE04YvV","command":"dl -e 2 -f 4628 --append [f:--url ibb:nqV6SLc5 -at ol] -st \"What's the next song kita-chan?\" -st \"%gravity:north%Is 69420123 yours kita-chan?\\nOkay got it.\""}
+{"kitan_id":"kitan_TXRQQ5iUer5d","command":"!dl -e 2 -f 4628 --append [f:--url ibb:nqV6SLc5 -at ol] -st \"What's the next song kita-chan?\" -st \"%gravity:north%Is 69420123 yours kita-chan?\\nOkay got it.\""}
+{"kitan_id":"kitan_QZ0ls1IypoC4","command":"!dl -e 2 -f 4628 --append [f:--url ibb:nqV6SLc5 -at ol] -st \"What's the next song kita-chan?\" -st \"%gravity:north%Is 69420123 yours kita-chan?\\nOkay got it.\""}
