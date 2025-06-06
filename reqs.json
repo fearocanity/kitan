@@ -354,3 +354,15 @@
 {"kitan_id":"kitan_W8wg2tVzWUAR","command":"!dl"}
 {"kitan_id":"kitan_dwMRUtEZOjcR","command":"!dl"}
 {"kitan_id":"kitan_WF4zQyRwZexK","command":"!dl -u"}
+{"kitan_id":"kitan_vUim4zzUMfov","command":"dl -e 2 -f 4922 -g 8"}
+{"kitan_id":"kitan_KptOwBZ0fOsF","command":"dl -e 2 -f 4922 -g 8"}
+{"kitan_id":"kitan_5tL3JA0571E9","command":"dl -e 2 -f 4922 -g 8"}
+{"kitan_id":"kitan_8TeiPU1fohqi","command":"dl -e 2 -f 4922 --crop [x1:990,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_UJLgqhRJ4cXS","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_wfqtUwZJFK1l","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_zOqMe5C2NCEC","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_9MIErQmFA6W1","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:250,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_LW65AwJzzCKC","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]"}
+{"kitan_id":"kitan_pUowx3hgjxXu","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945] --rembg"}
+{"kitan_id":"kitan_2Qfca5ckGIi3","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]] --rembg"}
+{"kitan_id":"kitan_ar4bLyc6Wi8X","command":"!dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]]"}
