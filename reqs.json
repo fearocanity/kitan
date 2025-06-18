@@ -368,3 +368,9 @@
 {"kitan_id":"kitan_ar4bLyc6Wi8X","command":"!dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]]"}
 {"kitan_id":"kitan_qn4JtJFSVP8F","command":"!dl --rembg"}
 {"kitan_id":"kitan_HTNz29DtLZzB","command":"!dl --rembg"}
+{"kitan_id":"kitan_ayfmNPb7kqD3","command":"!dl"}
+{"kitan_id":"kitan_NMo4aw8VbWgw","command":"dl -e 3 -f 217 --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:60%The ants inside the guitar bag:\"]"}
+{"kitan_id":"kitan_AwkV3BUtzITr","command":"dl -e 3 -f 217 --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:20%The ants inside the guitar bag:\"]"}
+{"kitan_id":"kitan_wk4OMASrpg8P","command":"dl -e 3 -f 217 --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:12%The ants inside the guitar bag:\"]"}
+{"kitan_id":"kitan_J4Xh2RT1ZSVJ","command":"dl -e 3 -f 217 --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:8%The ants inside the guitar bag:\"]"}
+{"kitan_id":"kitan_HTHKLeMTHBK9","command":"!dl --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:8%The ants inside the guitar bag:\"]"}
