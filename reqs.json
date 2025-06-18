@@ -366,3 +366,5 @@
 {"kitan_id":"kitan_pUowx3hgjxXu","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945] --rembg"}
 {"kitan_id":"kitan_2Qfca5ckGIi3","command":"dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]] --rembg"}
 {"kitan_id":"kitan_ar4bLyc6Wi8X","command":"!dl -e 2 -f 4922 --crop [x1:1050,x2:1750,y1:270,y2:945] --append [f:-e 2 -f 4933 --crop [x1:1050,x2:1750,y1:270,y2:945]] --append [f:-e 2 -f 4921 --crop [x1:990,x2:1790,y1:220,y2:945]] --append [f:-e 2 -f 4916 --crop [x1:1050,x2:1750,y1:270,y2:945]]"}
+{"kitan_id":"kitan_qn4JtJFSVP8F","command":"!dl --rembg"}
+{"kitan_id":"kitan_HTNz29DtLZzB","command":"!dl --rembg"}
