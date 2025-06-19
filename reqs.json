@@ -375,3 +375,4 @@
 {"kitan_id":"kitan_J4Xh2RT1ZSVJ","command":"dl -e 3 -f 217 --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:8%The ants inside the guitar bag:\"]"}
 {"kitan_id":"kitan_HTHKLeMTHBK9","command":"!dl --append [f:--url ibb:Z1tQvJzN -st \"%font:tdm%%gravity:north%%textsize:8%The ants inside the guitar bag:\"]"}
 {"kitan_id":"kitan_0k1GWc6e7p6O","command":"dl -e 2 -f 500"}
+{"kitan_id":"kitan_f6RHYIeFeGcA","command":"!dl -e 3 -f 217 -t \"How quiet kids look after a small inconvenience in school\""}
