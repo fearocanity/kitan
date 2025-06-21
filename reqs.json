@@ -377,3 +377,19 @@
 {"kitan_id":"kitan_0k1GWc6e7p6O","command":"dl -e 2 -f 500"}
 {"kitan_id":"kitan_f6RHYIeFeGcA","command":"!dl -e 3 -f 217 -t \"How quiet kids look after a small inconvenience in school\""}
 {"kitan_id":"kitan_5FXBy1ITm3cX","command":"!dl -u"}
+{"kitan_id":"kitan_AxVK9UZGoIyD","command":"dl -e 3 -f 500 -st \"%font:tdm%%annotate:+500+0%%textsize:60%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_47gsAGYKwm9o","command":"dl -e 3 -f 550 -st \"%font:tdm%%annotate:+800-20%%textsize:50%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_SVCvBOktl6SM","command":"dl -e 3 -f 550 -st \"%font:tdm%%annotate:+800,-20%%textsize:50%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_6KcYKNog7Q8F","command":"dl -e 3 -f 550 -st \"%font:tdm%%annotate:+200,+0%%textsize:50%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_zVKGMMbSLBDV","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+0,+300%%textsize:50%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_NXtWRKtNFrwr","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+300,+300%%textsize:50%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_eYwbeowLShgQ","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+250,+300%%textsize:53%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_llom6kVRBm9d","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+220,+275%%textsize:55%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_4xbBU77IdqAy","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+220,+275%%textsize:55%%strokewidth:3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_m5PMbUwPador","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+220,+275%%textsize:55%%strokewidth:5%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_4F6hasfQ4tPp","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+220,+275%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\""}
+{"kitan_id":"kitan_nDS0QoMj1H4v","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+275%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:1.3,sigma:1.3]"}
+{"kitan_id":"kitan_DXo0OZxFCIfN","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+255%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_AmIoThqrZV34","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+255%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
+{"kitan_id":"kitan_U2HcNCpEvyv3","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+225%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
+{"kitan_id":"kitan_blQ42KlgIEO9","command":"!dl -st \"%font:tdm%%gravity:northwest%%annotate:+200,+225%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
