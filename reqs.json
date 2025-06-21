@@ -393,3 +393,8 @@
 {"kitan_id":"kitan_AmIoThqrZV34","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+255%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
 {"kitan_id":"kitan_U2HcNCpEvyv3","command":"dl -e 3 -f 550 -st \"%font:tdm%%gravity:northwest%%annotate:+200,+225%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
 {"kitan_id":"kitan_blQ42KlgIEO9","command":"!dl -st \"%font:tdm%%gravity:northwest%%annotate:+200,+225%%textsize:55%%strokewidth:4.3%{q}I'm sure you learned about this in elementary grade{q}{n}Me in elementary:\" --blur [radius:2.0,sigma:2.0]"}
+{"kitan_id":"kitan_nJ3w6zDfIb1j","command":"dl -e 3 -f 582 -g 8"}
+{"kitan_id":"kitan_nSglZwNQ0Ogr","command":"dl -e 3 -f 582 --crop [x1:1180,x2:1575,y1:285,y2:455]"}
+{"kitan_id":"kitan_Fdj9sxIoWAYN","command":"dl -e 3 -f 582 --crop [x1:1190,x2:1585,y1:285,y2:455]"}
+{"kitan_id":"kitan_RMyOIWuaTTyU","command":"dl -e 3 -f 582 --crop [x1:1180,x2:1575,y1:285,y2:475]"}
+{"kitan_id":"kitan_NzSM1wB8BuBB","command":"dl -e 3 -f 582 --crop [x1:1180,x2:1575,y1:285,y2:475] --rotate [angle:90]"}
