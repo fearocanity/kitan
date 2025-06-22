@@ -421,3 +421,4 @@
 {"kitan_id":"kitan_VAVQB0aQ013T","command":"dl -e 3 -f 612 --crop [x1:425,x2:775,y1:135,y2:590] --append [f:--url ibb:fVrL0PT4 -at ol --size [height:150] --position [gravity:north,x:-100,y:+35]] --append [f:--url ibb:zVtH1bKc -at ol --size [width:125] --position [gravity:north,x:+10,y:+60] --rotate [angle:45]] --blur [radius:1.2,sigma:1.2]"}
 {"kitan_id":"kitan_gCYei0WAgtcN","command":"!dl --crop [x1:425,x2:775,y1:135,y2:590] --append [f:--url ibb:fVrL0PT4 -at ol --size [height:150] --position [gravity:north,x:-100,y:+35]] --append [f:--url ibb:zVtH1bKc -at ol --size [width:125] --position [gravity:north,x:+10,y:+60] --rotate [angle:45]] --blur [radius:1.2,sigma:1.2]"}
 {"kitan_id":"kitan_x0v5OaJDpi08","command":"!dl"}
+{"kitan_id":"kitan_tRO4KAncBuAU","command":"!dl -u"}
