@@ -437,3 +437,8 @@
 {"kitan_id":"kitan_1F3uUkhOg0TO","command":"!dl --sub"}
 {"kitan_id":"kitan_FuJo5bHbJBJ0","command":"!dl --sub"}
 {"kitan_id":"kitan_78znrNKtQTzq","command":"!dl"}
+{"kitan_id":"kitan_CPXvP3A455ub","command":"dl -e 3 -f 1385"}
+{"kitan_id":"kitan_O7OXisjdqwjg","command":"dl -e 3 -f 1386"}
+{"kitan_id":"kitan_mEE7pGNFDyEg","command":"dl -e 3 -f 1386 --sub"}
+{"kitan_id":"kitan_QrNFbRDSfNF2","command":"dl -e 3 -f 1387 --sub"}
+{"kitan_id":"kitan_WaERktvYYq24","command":"dl -e 3 -f 1389 --sub"}
