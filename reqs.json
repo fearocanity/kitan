@@ -468,3 +468,8 @@
 {"kitan_id":"kitan_kZzinuc14ILv","command":"!dl -u"}
 {"kitan_id":"kitan_VsXn6I0EaqY8","command":"!dl -u"}
 {"kitan_id":"kitan_Zg25FIomnyoX","command":"!dl -u"}
+{"kitan_id":"kitan_E0FA8s06DOpo","command":"dl -e 3 -f 3035 -g 8"}
+{"kitan_id":"kitan_g23PJmTRFTk8","command":"dl -e 3 -f 3035 --crop [x1:500,x2:1920,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt]"}
+{"kitan_id":"kitan_28Q9Sotuv8Gv","command":"dl -e 3 -f 3035 --crop [x1:500,x2:1920,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
+{"kitan_id":"kitan_lr5HheGqULUD","command":"dl -e 3 -f 3035 --crop [x1:500,x2:1680,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
+{"kitan_id":"kitan_HPJzDezh0Z8G","command":"!dl -e 3 -f 3035 --crop [x1:500,x2:1680,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
