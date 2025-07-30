@@ -474,3 +474,4 @@
 {"kitan_id":"kitan_lr5HheGqULUD","command":"dl -e 3 -f 3035 --crop [x1:500,x2:1680,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
 {"kitan_id":"kitan_HPJzDezh0Z8G","command":"!dl -e 3 -f 3035 --crop [x1:500,x2:1680,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
 {"kitan_id":"kitan_lbnDcsq8JWpF","command":"!dl"}
+{"kitan_id":"kitan_mybJnDgmyj2b","command":"!dl -t \"kita-san you killed the wrong person\""}
