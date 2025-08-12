@@ -503,3 +503,6 @@
 {"kitan_id":"kitan_8CgMdx9CVgco","command":"dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.0,sigma:2.0]"}
 {"kitan_id":"kitan_WGrNtG0riquD","command":"dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.3,sigma:2.3]"}
 {"kitan_id":"kitan_DWsEd9XHDTcA","command":"!dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.3,sigma:2.3]"}
+{"kitan_id":"kitan_aLDXNsqIWhGD","command":"!dl -t \"Mi prima al enterarse\""}
+{"kitan_id":"kitan_F2p2JImXdg0v","command":"!dl -t \"hey girl~\""}
+{"kitan_id":"kitan_HkKz5nAH5tAm","command":"!dl"}
