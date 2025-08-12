@@ -486,3 +486,20 @@
 {"kitan_id":"kitan_sWgEd2RV4TKY","command":"!dl --rembg"}
 {"kitan_id":"kitan_aCPtuunUshYe","command":"!dl -u"}
 {"kitan_id":"kitan_20tZKdqP8eXF","command":"!dl -u"}
+{"kitan_id":"kitan_OZvSHFPw3VJ4","command":"dl -e 03 -f 4517"}
+{"kitan_id":"kitan_wE8EQtHygUFG","command":"dl -e 3 -f 4517 -st \"Bocchi\""}
+{"kitan_id":"kitan_2BasrVgAeKrL","command":"dl -e 3 -f 4517 -t \"Bocchi%bg:#00000%%font:tdm%\""}
+{"kitan_id":"kitan_dkLL9ZkJyczQ","command":"dl -e 3 -f 4517 -t \"Bocchi%textcolor:#FFFFFF%%font:tdm%\""}
+{"kitan_id":"kitan_EGJT5ccOA5U0","command":"!dl"}
+{"kitan_id":"kitan_rj9Ms66QJVae","command":"dl -e 3 -f 4517 -st \"Bocchi%font:tdm%%textsize:45%\""}
+{"kitan_id":"kitan_uK2QBnxBYtWT","command":"dl -e 3 -f 4517 -st \"Bocchi%font:tdm%%textsize:45%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_ZthNwa1JErv5","command":"dl -e 3 -f 4517 -st \"Bocchi%font:tdm%%textsize:60%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_cFSuvgck7cC7","command":"dl -e 3 -f 4517 -st \"Happy Bocchi%font:tdm%%textsize:60%%strokewidth:5.0%%gravity:north%\""}
+{"kitan_id":"kitan_8U13mXjUakzU","command":"!dl -e 3 -f 4517 -st \"Happy Bocchi%font:tdm%%textsize:60%%strokewidth:5.0%%gravity:north%\""}
+{"kitan_id":"kitan_j6ajY828RlB6","command":"!dl -e 3 -f 4517 -st \"Happy Bocchi%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\""}
+{"kitan_id":"kitan_QF4o2O0sYhwq","command":"dl -e 3 -f 4517 -st \"Happy Bocchi%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" -g 8"}
+{"kitan_id":"kitan_XgthZO2YJMqK","command":"dl -e 3 -f 4517 -st \"Happy Bocchi%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_1zuYYO0ZUub7","command":"dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_8CgMdx9CVgco","command":"dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.0,sigma:2.0]"}
+{"kitan_id":"kitan_WGrNtG0riquD","command":"dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.3,sigma:2.3]"}
+{"kitan_id":"kitan_DWsEd9XHDTcA","command":"!dl -e 3 -f 4530 -st \"Bocchi when Kita%font:tdm%%textsize:70%%strokewidth:5.4%%gravity:north%\" --crop [x1:240,x2:1550,y1:0,y2:{h}] --blur [radius:2.3,sigma:2.3]"}
