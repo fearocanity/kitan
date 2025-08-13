@@ -506,3 +506,6 @@
 {"kitan_id":"kitan_aLDXNsqIWhGD","command":"!dl -t \"Mi prima al enterarse\""}
 {"kitan_id":"kitan_F2p2JImXdg0v","command":"!dl -t \"hey girl~\""}
 {"kitan_id":"kitan_HkKz5nAH5tAm","command":"!dl"}
+{"kitan_id":"kitan_Mfs8wd4bd1xk","command":"dl -e 3 -f 4530"}
+{"kitan_id":"kitan_0jZsJABnvq3I","command":"dl -e 3 -f 4530 -a [f:--url ibb:PZGL4sbK -at ol]"}
+{"kitan_id":"kitan_6iElN9yjWt2X","command":"!dl -e 3 -f 4530 -a [f:--url ibb:PZGL4sbK -at ol]"}
