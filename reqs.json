@@ -513,3 +513,9 @@
 {"kitan_id":"kitan_TILMYbVrTbKN","command":"!dl -a [f:--url ibb:8DDzFrsM -at ol]"}
 {"kitan_id":"kitan_Y4ESwnRzZPdy","command":"!dl -st \"Anything but work 😭🙏🥀%gravity:north%%textsize:74%%strokewidth:5.4%\" --blur [radius:2.3,sigma:2.3]"}
 {"kitan_id":"kitan_ORfzmXpWdB5E","command":"!dl -st \"Anything but work 😭🙏🥀%gravity:north%%textsize:74%%strokewidth:5.4%%font:tdm%\" --blur [radius:2.3,sigma:2.3]"}
+{"kitan_id":"kitan_saSl1gM5EnKl","command":"dl -e 3 -f 4859 -g 8"}
+{"kitan_id":"kitan_eCMa2ooGhezh","command":"dl -e 3 -f 4859 --crop [x1:1280,x2:1790,y1:25,y2:455]"}
+{"kitan_id":"kitan_997oM1A9MBTi","command":"dl -e 3 -f 4859 --crop [x1:1335,x2:1790,y1:25,y2:475]"}
+{"kitan_id":"kitan_gNk3wAG7YELP","command":"dl -e 3 -f 4859 --crop [x1:1335,x2:1790,y1:25,y2:464]"}
+{"kitan_id":"kitan_9Me9g9gYprXV","command":"dl -e 3 -f 4859 --crop [x1:1335,x2:1790,y1:25,y2:464] --rembg"}
+{"kitan_id":"kitan_HtKrAnVvETT4","command":"!dl -e 3 -f 4859 --crop [x1:1335,x2:1790,y1:25,y2:464]"}
