@@ -552,3 +552,4 @@
 {"kitan_id":"kitan_SP084h8hQIR4","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+220] --rotate flop]"}
 {"kitan_id":"kitan_6D7CJ2TiNFvy","command":"!dl -e 4 -f 2309 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+220] --rotate flop]"}
 {"kitan_id":"kitan_aNSsBdVNV5zk","command":"!dl -u"}
+{"kitan_id":"kitan_7oUOgTNDkeuN","command":"!dl -u"}
