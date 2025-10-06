@@ -537,3 +537,17 @@
 {"kitan_id":"kitan_7rTqq19vpC9p","command":"!dl -t \"Quaso\""}
 {"kitan_id":"kitan_K9ZjZSo2TkNe","command":"!dl -u"}
 {"kitan_id":"kitan_0jNoASl2bDJd","command":"!dl -u"}
+{"kitan_id":"kitan_KznR7qGPJ7oF","command":"dl -e 4 -f 2298 -g 8"}
+{"kitan_id":"kitan_7Fo893G08ugA","command":"dl -e 4 -f 2298 --crop [x1:810,x2:1100,y1:245,y2:975]"}
+{"kitan_id":"kitan_F8kTPdGORj3O","command":"dl -e 4 -f 2298 --crop [x1:845,x2:1100,y1:210,y2:990]"}
+{"kitan_id":"kitan_4M1OvA9bvIO2","command":"dl -e 4 -f 2298 --crop [x1:845,x2:1100,y1:210,y2:1010]"}
+{"kitan_id":"kitan_81BCQ2jx2msY","command":"dl -e 4 -f 2298 --crop [x1:845,x2:1100,y1:220,y2:1020]"}
+{"kitan_id":"kitan_b2Kvv35JZinY","command":"dl -e 4 -f 2298 --crop [x1:845,x2:1100,y1:220,y2:1020] --squish [percent:70]"}
+{"kitan_id":"kitan_90MH07MkrZFa","command":"dl -e 4 -f 2298 --crop [x1:845,x2:1100,y1:220,y2:1020] --squish [percent:88] --rembg"}
+{"kitan_id":"kitan_bIg7kPCwnLXm","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --squish [percent:88] --rembg --position [gravity:northwest,x:+320,y:+810] --size [width:40]]"}
+{"kitan_id":"kitan_ZOGs2mgoAoxl","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+810] --size [width:40]]"}
+{"kitan_id":"kitan_IfVEN3Iy8fng","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+810] --size [width:40] --squish [percent:88]]"}
+{"kitan_id":"kitan_tuZ0OweX3QBW","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+810]]"}
+{"kitan_id":"kitan_noaclkSkRP2L","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+220]]"}
+{"kitan_id":"kitan_SP084h8hQIR4","command":"dl -e 4 -f 2298 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+220] --rotate flop]"}
+{"kitan_id":"kitan_6D7CJ2TiNFvy","command":"!dl -e 4 -f 2309 --append [f:-e 4 -f 2298 -at ol --crop [x1:845,x2:1100,y1:220,y2:1020] --rembg --position [gravity:northwest,x:+320,y:+220] --rotate flop]"}
