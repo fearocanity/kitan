@@ -561,3 +561,10 @@
 {"kitan_id":"kitan_HHqsIyTh18JR","command":"!dl -u"}
 {"kitan_id":"kitan_zE9w57RaqlRZ","command":"!dl"}
 {"kitan_id":"kitan_04DSF7fjAIy7","command":"!dl -u"}
+{"kitan_id":"kitan_ljm4gyAcsfUh","command":"!dl"}
+{"kitan_id":"kitan_GWkcqG1YW16h","command":"dl -e 4 -f 2665 -g"}
+{"kitan_id":"kitan_nh43L91ILuML","command":"dl -e 4 -f 2665 -g 8"}
+{"kitan_id":"kitan_Tdzb4HwpM29f","command":"dl -e 4 -f 2665 --crop [x1:760,x2:1100,y1:270,y2:540]"}
+{"kitan_id":"kitan_poLzBcOs8O8b","command":"dl -e 4 -f 2665 --crop [x1:800,x2:1100,y1:300,y2:540]"}
+{"kitan_id":"kitan_wpFYefthasJ8","command":"!dl -e 4 -f 2665 --crop [x1:800,x2:1100,y1:300,y2:540]"}
+{"kitan_id":"kitan_sv9HVafJXJZq","command":"!dl"}
