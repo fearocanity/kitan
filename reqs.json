@@ -568,3 +568,5 @@
 {"kitan_id":"kitan_poLzBcOs8O8b","command":"dl -e 4 -f 2665 --crop [x1:800,x2:1100,y1:300,y2:540]"}
 {"kitan_id":"kitan_wpFYefthasJ8","command":"!dl -e 4 -f 2665 --crop [x1:800,x2:1100,y1:300,y2:540]"}
 {"kitan_id":"kitan_sv9HVafJXJZq","command":"!dl"}
+{"kitan_id":"kitan_tpACHtaEyoBK","command":"!dl"}
+{"kitan_id":"kitan_6xV6BoVNH8dM","command":"!dl -u"}
