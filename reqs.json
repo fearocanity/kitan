@@ -600,3 +600,4 @@
 {"kitan_id":"kitan_FPaKAC6gNgBV","command":"dl -e 4 -f 3057 --append [f:--url ibb:tPvHw8HD -at ol --rembg --size [h:580] --position [gravity:northwest,x:-90,y:+135] --rotate flop] --sub"}
 {"kitan_id":"kitan_RSXkLIUAD328","command":"!dl --append [f:--url ibb:tPvHw8HD -at ol --rembg --size [h:580] --position [gravity:northwest,x:-90,y:+135] --rotate flop] --sub"}
 {"kitan_id":"kitan_mAgIGMufMyud","command":"!dl"}
+{"kitan_id":"kitan_PqdmWd8JW1QO","command":"!dl"}
