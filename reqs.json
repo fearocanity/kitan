@@ -620,3 +620,5 @@
 {"kitan_id":"kitan_HbVlvLTE8cvZ","command":"!dl -u"}
 {"kitan_id":"kitan_X2sOhZVDJM7w","command":"!dl"}
 {"kitan_id":"kitan_wcOgS50W76n0","command":"!dl -u"}
+{"kitan_id":"kitan_jRVM4p2yVYug","command":"dl -e 4 -f 3112"}
+{"kitan_id":"kitan_8lXpFkXs70eD","command":"dl -e 4 -f 3112 -u"}
