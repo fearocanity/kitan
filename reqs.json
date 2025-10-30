@@ -625,3 +625,32 @@
 {"kitan_id":"kitan_1imZcd6PHn3S","command":"!dl -u"}
 {"kitan_id":"kitan_C1PEVrcs4yWw","command":"!dl -u"}
 {"kitan_id":"kitan_FZSgCxwU0fLs","command":"!dl -u"}
+{"kitan_id":"kitan_S9yhaUPlXZwx","command":"dl -e 04 -f 3551 -g 8"}
+{"kitan_id":"kitan_IhHgxNI3zYSl","command":"dl -e 04 -f 3551 -g 8"}
+{"kitan_id":"kitan_gNK5KbKyZJHy","command":"dl -e 04 -f 3551 -g 8"}
+{"kitan_id":"kitan_K9nUa613EBEd","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:575]"}
+{"kitan_id":"kitan_EgAOvUqanD1J","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590]"}
+{"kitan_id":"kitan_peGlL3xqUCL4","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:imp%%size:40%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_Cx8fzMk87rZX","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:imp%%size:60%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_KKpkFI4tK3V2","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:impact%%size:60%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_ChCwdiab7G0X","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:impact%%textsize:60%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_aIScizbupJGl","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_JXQd680YTxjP","command":"dl -e 4 -f 3551 --crop [x1:170,x2:400,y1:385,y2:590] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_bktf376Lhkyx","command":"dl -e 4 -f 3551 --crop [x1:170,x2:420,y1:385,y2:620] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_rN7XZ94ryD35","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_wWxBtKj6Z2uj","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_4Qp79phQNpEm","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate [angle:180] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_5cTaJ00ZMv7b","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate [angle:270] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_EJHjgaKjbRaM","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate [angle:90] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_pVfgv6exwaM5","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_NMqSGFt6Fhds","command":"dl -e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --mirror [offset:300] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_waSu0jorXnQm","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635]] --crop [x1:160,x2:420,y1:385,y2:635]  -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_xbU5bOBLXJq9","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:160,x2:420,y1:385,y2:635]  -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_NUVmTUAiaOcr","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_ibDApYfhafCc","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:160,x2:420,y1:385,y2:635] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_z7KKEussHT1R","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_jfLoN3ewdIWd","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:0,x2:260,y1:0,250] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_kLSxYbsiNga5","command":"dl -e 4 -f 3551 -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:0,x2:260,y1:0,y2:250] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_whIOt4MzlE5e","command":"!dl -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:0,x2:260,y1:0,y2:250] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_4sqLWGU9hdNk","command":"!dl"}
+{"kitan_id":"kitan_74oxENV8KeLx","command":"!dl -u"}
