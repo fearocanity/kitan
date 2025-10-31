@@ -654,3 +654,12 @@
 {"kitan_id":"kitan_whIOt4MzlE5e","command":"!dl -a [f:-e 4 -f 3551 -at ol --crop [x1:160,x2:420,y1:385,y2:635] --rotate flop] --crop [x1:0,x2:260,y1:0,y2:250] -st \"ADA ADA SAJA%font:impact%%textsize:25%%strokewidth:2.0%\""}
 {"kitan_id":"kitan_4sqLWGU9hdNk","command":"!dl"}
 {"kitan_id":"kitan_74oxENV8KeLx","command":"!dl -u"}
+{"kitan_id":"kitan_kJFjaC9tlJPg","command":"dl -e 4 -f 4018"}
+{"kitan_id":"kitan_IWf2AobzQzMA","command":"dl -e 4 -f 4018 --sub"}
+{"kitan_id":"kitan_1fSV01MnZxzk","command":"dl -e 4 -f 4019 --sub"}
+{"kitan_id":"kitan_LRsPMpF9s5Ns","command":"dl -e 4 -f 4020 --sub"}
+{"kitan_id":"kitan_24t9SbLVk8dG","command":"dl -e 4 -f 4021 --sub"}
+{"kitan_id":"kitan_790UspfSBR0O","command":"dl -e 4 -f 4022 --sub"}
+{"kitan_id":"kitan_h724z5pqkkSN","command":"dl -e 4 -f 4023 --sub"}
+{"kitan_id":"kitan_7ECQ5wHDN6MH","command":"dl -e 4 -f 4024 --sub"}
+{"kitan_id":"kitan_XMoHH43xF1Wm","command":"dl -e 4 -f 4025 --sub"}
