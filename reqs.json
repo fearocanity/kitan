@@ -667,3 +667,4 @@
 {"kitan_id":"kitan_uASejCrjjTT3","command":"!dl -e 4 -f 3668 --grid [blocks:7]"}
 {"kitan_id":"kitan_5nWf39veuJaL","command":"!dl -e 4 -f 3668 --crop [x1:959,x2:1781,y1:154,y2:1002]"}
 {"kitan_id":"kitan_jyE77WRMCaTS","command":"!dl -u"}
+{"kitan_id":"kitan_AConemWsoHky","command":"!dl"}
