@@ -694,3 +694,7 @@
 {"kitan_id":"kitan_yxTxKR9ZhgwZ","command":"!dl -e 5 -f 230 -c [x1:720,x2:1430,y1:270,y2:830] -st \"What is this scene even trying to compel 😭🥀%font:tdm%%gravity:center%%textsize:35%%strokewidth:3.5%%annotate:+0,-20%\""}
 {"kitan_id":"kitan_iTwNzms8YN36","command":"!dl -u"}
 {"kitan_id":"kitan_TPvolDjPo11G","command":"!dl"}
+{"kitan_id":"kitan_Kk7DOZX6QXvy","command":"!dl -st \"That was wild bro, btw what's that snail doing?\""}
+{"kitan_id":"kitan_qdYOeHNViRPM","command":"dl -e 5 -f 273 -a [f:-u ibb:0yBNfWJr -at ol --position [gravity:northwest,x:+720,y:+500] --size [width:400]"}
+{"kitan_id":"kitan_RjzYoEKT8VsK","command":"dl -e 5 -f 273 -a [f:-u ibb:0yBNfWJr -at ol --position [gravity:northwest,x:+720,y:+500] --size [width:400]]"}
+{"kitan_id":"kitan_eInN9DpvlWWU","command":"dl -e 5 -f 273 -a [f:--url ibb:0yBNfWJr -at ol --position [gravity:northwest,x:+720,y:+500] --size [width:400]]"}
