@@ -707,3 +707,7 @@
 {"kitan_id":"kitan_Cf5exPU1KkNT","command":"dl -e 5 -f 273 -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+1020,y:+610] --size [width:400]]"}
 {"kitan_id":"kitan_B9m1XWQjvuX1","command":"!dl -e 5 -f 273 -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+1020,y:+610] --size [width:400]]"}
 {"kitan_id":"kitan_IDMjXpc0s0Sv","command":"!dl -st \"Meow meow\""}
+{"kitan_id":"kitan_YpcMhAWvIFcv","command":"dl -e 5 -f 339"}
+{"kitan_id":"kitan_oP22B7HBQyBO","command":"dl -e 5 -f 339 -a [f:--url ibb:prQ2TLWL -at ol]"}
+{"kitan_id":"kitan_mCyme9NbGRsN","command":"!dl -a [f:--url ibb:prQ2TLWL -at ol]"}
+{"kitan_id":"kitan_zRe2TscsouWY","command":"!dl"}
