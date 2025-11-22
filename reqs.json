@@ -741,3 +741,25 @@
 {"kitan_id":"kitan_KJwFOKRJwoeT","command":"!dl -st \"David Martinez,ahh\""}
 {"kitan_id":"kitan_G9Sp55qbs08r","command":"dl -e 5 -f 715 -a [f:--url ibb:PGLYThXC --swap]"}
 {"kitan_id":"kitan_foDDhfbMMaQg","command":"!dl -e 5 -f 715 -a [f:--url ibb:PGLYThXC --swap]"}
+{"kitan_id":"kitan_gYp6YPAztmyw","command":"!dl -st \"David Martinez,ahh%gravity:north%%font:tdm%%textsize:45%%strokewidth:2.5%\" \n# you can add some styles like this"}
+{"kitan_id":"kitan_zvno6cfSwVxS","command":"!dl -st \"David Martinez,ahh%gravity:north%%font:tdm%%textsize:75%%strokewidth:3.2%\" \n# you can add some styles like this"}
+{"kitan_id":"kitan_vXdPxVERUz32","command":"!dl -st \"me after watching cyberpunk%gravity:north%%font:tdm%%textsize:75%%strokewidth:4.0%\" \n# you can add some styles like this"}
+{"kitan_id":"kitan_f99iLanyFzcO","command":"dl -e 5 -f 715 -st \"me after watching cyberpunk%gravity:north%%font:tdm%%textsize:75%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_Vq1aBlW5CzEl","command":"dl -e 5 -f 715 -st \"nigga%gravity:north%%font:tdm%%textsize:75%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_7ATOYMDURL4F","command":"dl -e 5 -f 715 -st \"Hello World{\\n}こんにちは、世界%gravity:north%%font:tdm%%textsize:75%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_GLrmfbepwR3K","command":"dl -e 5 -f 715 -st \"Hello World{n}こんにちは、世界%gravity:north%%font:tdm%%textsize:75%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_adX0t0qTJ4yV","command":"dl -e 5 -f 715 -st \"Hello World{n}□%gravity:north%%font:tdm%%textsize:75%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_fCao0SJnwSH0","command":"dl -e 5 -f 715 -st \"○%gravity:north%%font:tdm%%textsize:100%%strokewidth:5.0%%strokecolor:#ff0000%\""}
+{"kitan_id":"kitan_1CsuteggiZJP","command":"dl -e 5 -f 715 -st \"○%gravity:north%%font:tdm%%textsize:100%%strokewidth:0%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_2CJcVoZZWPz7","command":"dl -e 5 -f 715 -st \"○%gravity:north%%font:tdm%%textsize:150%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_5AdXbNsZ40Sl","command":"dl -e 5 -f 715 -st \"○%gravity:north%%font:tdm%%textsize:250%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_J6L3mLtsRFqg","command":"dl -e 5 -f 715 -st \"○←%gravity:north%%font:tdm%%textsize:250%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_byUeWPWZsRng","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-400,+0%%font:tdm%%textsize:250%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_2NOjzjMgN0C2","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-400,+40%%font:tdm%%textsize:160%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_77OoaX1lXc89","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-520,-60%%font:tdm%%textsize:160%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_jKy5p3wOarjf","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-520,+60%%font:tdm%%textsize:160%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_bjkNJM7RM9mq","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-590,+100%%font:tdm%%textsize:160%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_c6ARifKYVFWi","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-590,+120%%font:tdm%%textsize:100%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_VpzqzVGzDW9S","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-590,+140%%font:tdm%%textsize:100%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_1QFkW6pj2U82","command":"dl -e 5 -f 715 -st \"○ ←%gravity:north%%annotate:-600,+160%%font:tdm%%textsize:100%%strokewidth:0%%strokecolor:#ff0000%%textcolor:#ff0000%\""}
+{"kitan_id":"kitan_nrGSJWUPNnne","command":"!dl -st \"Teghleer chi Tugu-tei hmt vvniig hiih l heregtei\""}
