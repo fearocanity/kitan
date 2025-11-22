@@ -739,3 +739,5 @@
 {"kitan_id":"kitan_2NdQVgMhWYjQ","command":"!dl -st \"The fun is INFINITE\""}
 {"kitan_id":"kitan_GW4b4R7Iz7VX","command":"!dl -st \"Wha-? Wha-? Wha-? Wha-?\""}
 {"kitan_id":"kitan_KJwFOKRJwoeT","command":"!dl -st \"David Martinez,ahh\""}
+{"kitan_id":"kitan_G9Sp55qbs08r","command":"dl -e 5 -f 715 -a [f:--url ibb:PGLYThXC --swap]"}
+{"kitan_id":"kitan_foDDhfbMMaQg","command":"!dl -e 5 -f 715 -a [f:--url ibb:PGLYThXC --swap]"}
