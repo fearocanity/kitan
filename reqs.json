@@ -771,3 +771,4 @@
 {"kitan_id":"kitan_cG6aalMNxzqa","command":"!dl -st \"WRONG HOLE!! WRONG HOLE!!\""}
 {"kitan_id":"kitan_IJx7t7SmqlJL","command":"!dl -st \"Ese agujero no es, pero sigue mas profundo\""}
 {"kitan_id":"kitan_w3xk4ktScgtb","command":"!dl -e 3 -f 582 --crop [x1:1180,x2:1575,y1:285,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_3jlnY3cE89fp","command":"!dl -u"}
