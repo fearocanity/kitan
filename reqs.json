@@ -779,3 +779,18 @@
 {"kitan_id":"kitan_drR8QZTNaw2y","command":"!dl -st \"Ya... tapi Gibran sudah pasti Fufufafa\""}
 {"kitan_id":"kitan_ADu6XOe45w93","command":"!dl -u"}
 {"kitan_id":"kitan_OJhazXL5u8d4","command":"!dl -u"}
+{"kitan_id":"kitan_p3wVrEeJp6WK","command":"dl -e 5 -f 1050 --grid 8"}
+{"kitan_id":"kitan_bruUHlXrdxlj","command":"dl -e 5 -f 1050 -c [x1:780,x2:1100,y1:415,y2:700]"}
+{"kitan_id":"kitan_Za3x0XjvWedz","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:430,y2:700]"}
+{"kitan_id":"kitan_RqxLtAyewqhU","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:455,y2:700]"}
+{"kitan_id":"kitan_RIrSLY3hxRQ2","command":"!dl -c [x1:820,x2:1100,y1:455,y2:700]"}
+{"kitan_id":"kitan_sPpqiOZvkUrH","command":"dl -e 5 -f 1050 -c [x1:780,x2:1100,y1:415,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_Ctxy4qIVQNJk","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:455,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_sMngkyVoRiVL","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:455,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:2.0%\""}
+{"kitan_id":"kitan_3MuEqmKMGXFr","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:455,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:3.0%\""}
+{"kitan_id":"kitan_BoliK4PTtfsk","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:455,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:2.5%\""}
+{"kitan_id":"kitan_jzmIsPxlQXp0","command":"!dl -c [x1:820,x2:1100,y1:455,y2:700] -st \"???%font:tdm%%textsize:25%%strokewidth:2.5%\""}
+{"kitan_id":"kitan_yTQfFTRl1Z8T","command":"dl -e 5 -f 1050 -c [x1:820,x2:1100,y1:438,y2:718] -st \"???%font:tdm%%textsize:25%%strokewidth:2.5%\""}
+{"kitan_id":"kitan_Iqta5Ru0cU5y","command":"dl -h"}
+{"kitan_id":"kitan_c9b88LxYsIp5","command":"!dl -c [x1:820,x2:1100,y1:438,y2:718] -st \"???%font:tdm%%textsize:25%%strokewidth:2.5%\" --3dbox"}
+{"kitan_id":"kitan_jVqFrkCnKf8F","command":"!dl -c [x1:820,x2:1100,y1:438,y2:718] -st \"???%font:tdm%%textsize:25%%strokewidth:2.5%\" --3dbox [bgcol:#ffffff,delay:6]"}
