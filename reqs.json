@@ -817,3 +817,6 @@
 {"kitan_id":"kitan_7XKGL6pgpPcI","command":"!dl -g 8"}
 {"kitan_id":"kitan_hhWcpXKyFmiK","command":"!dl -g 12"}
 {"kitan_id":"kitan_FHyh9yrIJLWB","command":"!dl --crop [x1:480,x2:1440,y1:0,y2:1080] -st \"AMOGUS%font:upr%%textsize:200%%strokewidth:6.0%\""}
+{"kitan_id":"kitan_fJpyqE7yVKRF","command":"!dl -s 1 -e 5 -f 1137 --crop [x1:480,x2:1440,y1:0,y2:1080] -st \"AMOGUS%font:upr%%textsize:200%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_m8AM7QyAH7oj","command":"!dl -s 1 -e 5 -f 1137 --crop [x1:480,x2:1440,y1:0,y2:1080] -st \"AMOGUS%font:upr%%textsize:200%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_w9ao6QNAynQI","command":"!dl -t \"💀\""}
