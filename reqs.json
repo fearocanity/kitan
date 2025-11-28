@@ -830,3 +830,9 @@
 {"kitan_id":"kitan_IxFZsukdVdJS","command":"!dl -st \"Tanggung jawab lu, wok. Gw keracunan MBG nih!!!\""}
 {"kitan_id":"kitan_ZUxUWTffwMgh","command":"!dl -st \"Awokawok keracunan MBG\""}
 {"kitan_id":"kitan_VUC7BuSgwMQj","command":"!dl st nyebelin"}
+{"kitan_id":"kitan_1410CkFvWIbT","command":"dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol]"}
+{"kitan_id":"kitan_DSPefUfEo37o","command":"dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]]"}
+{"kitan_id":"kitan_eRXgv3qYhgJk","command":"dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 --rembg]"}
+{"kitan_id":"kitan_iGmajYxYf8Ew","command":"dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 -at ol --rembg] -a [f:--url ibb:VYgcv3Pb -at ol --rembg --size [width:1920]]"}
+{"kitan_id":"kitan_625TQ0keNwya","command":"dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 -at ol --rembg]"}
+{"kitan_id":"kitan_apwXVdRmD6yE","command":"!dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 -at ol --rembg]"}
