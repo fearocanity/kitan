@@ -862,3 +862,5 @@
 {"kitan_id":"kitan_NMv6Qsvz9q65","command":"!dl -st \"What is this anime    {n}even about    •• •     %font:tdm%%textsize:75%%annotate:+0,+300%%strokewidth:5.0%\" -a [f:--url ibb:5hfs76ht -at ol --size [width:120] --position [gravity:south,x:+220,y:+295]] -a [f:--url ibb:zWqZw9SV -at ol --size [width:120] --position [gravity:south,x:+325,y:+295]] --blur [radius:1.2,sigma:1.2]"}
 {"kitan_id":"kitan_LvEnfXUw7kOR","command":"!dl --crop [x1:480,x2:1440,y1:0,y2:1080] -st \"Bocchi The Sus%font:upr%%textsize:200%%strokewidth:4.0%\""}
 {"kitan_id":"kitan_4FJEIDON03yo","command":"dl -e 1 -f 44"}
+{"kitan_id":"kitan_4yVrpddscOwz","command":"!dl -u"}
+{"kitan_id":"kitan_Mvpn1Wi83Eaz","command":"dl -e 5 -f 1500 -c [x1:980,x2:1280,y1:145,y2:445] -q"}
