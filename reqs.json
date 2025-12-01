@@ -872,3 +872,4 @@
 {"kitan_id":"kitan_gBL2dTZoKcCZ","command":"!dl -c [x1:0,x2:720,y1:540,y2:1080] --heart \"wife\""}
 {"kitan_id":"kitan_hMzLNWqEJZkL","command":"dl -e 5 -f 1050 --grid"}
 {"kitan_id":"kitan_CkCFDDpb4As3","command":"dl -q -e 5 -f 1050"}
+{"kitan_id":"kitan_lRFG5Mt5plig","command":"!dl -st \"The moment I realized that Goto was already dead\""}
