@@ -893,3 +893,10 @@
 {"kitan_id":"kitan_CNdgq72N0UCL","command":"!dl -st \"Inilah perbedaan antara pejabat dengan rakyat biasa\""}
 {"kitan_id":"kitan_h4H2z3QjnTZB","command":"!dl -st \"Wujud asli Mas Gibran loh ya\""}
 {"kitan_id":"kitan_5s9XJ6Fsh3w0","command":"!dl -st \"Duh keluar dikit... || Lu kenapa jir?\""}
+{"kitan_id":"kitan_wjgpMFOlcdAS","command":"!dl -q --heart \"kita gooner\""}
+{"kitan_id":"kitan_3qAfiRr77MMk","command":"dl -q -e 5 -f 2430 -g 8"}
+{"kitan_id":"kitan_xxo4lTwiW4sQ","command":"dl -q -e 5 -f 2430 -c [x1:780,x2:1245,y1:135,y2:560]"}
+{"kitan_id":"kitan_DKe2ifM0rSDz","command":"dl -q -e 5 -f 2430 -c [x1:810,x2:1245,y1:135,y2:560]"}
+{"kitan_id":"kitan_4nSCsTn8SmTk","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:585]"}
+{"kitan_id":"kitan_RhbBw8lLVsyg","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600]"}
+{"kitan_id":"kitan_wbBTb9Vf3Goo","command":"!dl -q -c [x1:835,x2:1245,y1:150,y2:600] --heart \"kita gooner\""}
