@@ -900,3 +900,9 @@
 {"kitan_id":"kitan_4nSCsTn8SmTk","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:585]"}
 {"kitan_id":"kitan_RhbBw8lLVsyg","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600]"}
 {"kitan_id":"kitan_wbBTb9Vf3Goo","command":"!dl -q -c [x1:835,x2:1245,y1:150,y2:600] --heart \"kita gooner\""}
+{"kitan_id":"kitan_iRKmUuP47bbJ","command":"!dl -g 12"}
+{"kitan_id":"kitan_dHDuqfRtm8kx","command":"!dl --crop [x1:800,x2:1440,y1:90,y2:540] -st \"DUH ENAK BET BANGKE%font:upr%%textsize:200%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_KxcZh5MOiaGe","command":"!dl --crop [x1:800,x2:1120,y1:90,y2:540] -st \"DUH ENAK BET BANGKE%font:upr%%textsize:100%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_i8OwbOXNlDQX","command":"!dl --crop [x1:800,x2:1280,y1:90,y2:630] -st \"DUH ENAK BET BANGKE%font:upr%%textsize:100%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_SO4mPrltUH4V","command":"!dl --crop [x1:800,x2:1280,y1:90,y2:630] -st \"DUH ENAK BET BANGKE%font:upr%%textsize:50%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_9UiKCccmmtfs","command":"!dl -u"}
