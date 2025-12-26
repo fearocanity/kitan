@@ -927,3 +927,9 @@
 {"kitan_id":"kitan_5ihlrj2dZpuN","command":"!dl -up --upload"}
 {"kitan_id":"kitan_3epjtK3imzhS","command":"!dl -st \"😮\""}
 {"kitan_id":"kitan_sJENopP8COlD","command":"!dl"}
+{"kitan_id":"kitan_CY1a6dPg0SLj","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -st \"😭😭\""}
+{"kitan_id":"kitan_clJTEaGfowQK","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -t \"😭😭\""}
+{"kitan_id":"kitan_ALLwlsi5E2PB","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -t \"😭😭%bgcol:#000000%\""}
+{"kitan_id":"kitan_a2qqcpCSdSXm","command":"dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -t \"😭😭%bg:#000000%\""}
+{"kitan_id":"kitan_cC1CrAOjsXRy","command":"!dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -t \"😭😭%bg:#000000%\""}
+{"kitan_id":"kitan_unlpVTbjF7oi","command":"!dl -q -e 5 -f 2430 -c [x1:835,x2:1245,y1:150,y2:600] -t \"😭😭%bg:#000000%\""}
