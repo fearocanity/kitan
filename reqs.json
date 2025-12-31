@@ -950,3 +950,9 @@
 {"kitan_id":"kitan_3VRjMrUTBWSJ","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex here?%textsize:60%%strokewidth:5.0%%annotate:+415,+200%\""}
 {"kitan_id":"kitan_HXOmwfPn8HgG","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex{n}here?%textsize:60%%strokewidth:5.0%%annotate:+430,+200%\""}
 {"kitan_id":"kitan_pOACibF3cbvC","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex{n}here?%textsize:60%%strokewidth:5.0%%annotate:+430,+175%\""}
+{"kitan_id":"kitan_wdOD3wEVHsxq","command":"!dl -g 12"}
+{"kitan_id":"kitan_4p02scpSf9YE","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080]"}
+{"kitan_id":"kitan_qtJDqZnMagJ4","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"SESBIAN LEX%font:upr%%textsize:200%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_8fj1nNOMbNbg","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"SESBIAN LEX%font:upr%%textsize:100%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_odjn3swS0Pxr","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"SESBIAN LEX%font:upr%%textsize:100%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_KxwdAkb1IJUY","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"Kasih Sayang Atmint%font:upr%%textsize:100%%strokewidth:4.0%\""}
