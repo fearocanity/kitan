@@ -941,3 +941,12 @@
 {"kitan_id":"kitan_fbygDDSTTncd","command":"!dl"}
 {"kitan_id":"kitan_RqVMjiF6UV2n","command":"!dl"}
 {"kitan_id":"kitan_4vYn5Bn2Kyl5","command":"!dl"}
+{"kitan_id":"kitan_2uKXOgGL97q1","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually witnessing sesbian lex?\""}
+{"kitan_id":"kitan_XftOeaiibn4b","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex?%textsize:60%\""}
+{"kitan_id":"kitan_ExlqaqnPaZVj","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex?%textsize:60%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_1sNVfjE6CIBt","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex?%textsize:60%%strokewidth:5.0%%annotate:+400,+200\""}
+{"kitan_id":"kitan_RqaShD6nz5MU","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex?%textsize:60%%strokewidth:5.0%%annotate:+400,+200%\""}
+{"kitan_id":"kitan_PUvg3KRszf91","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex?%textsize:60%%strokewidth:5.0%%annotate:+415,+200%\""}
+{"kitan_id":"kitan_3VRjMrUTBWSJ","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex here?%textsize:60%%strokewidth:5.0%%annotate:+415,+200%\""}
+{"kitan_id":"kitan_HXOmwfPn8HgG","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex{n}here?%textsize:60%%strokewidth:5.0%%annotate:+430,+200%\""}
+{"kitan_id":"kitan_pOACibF3cbvC","command":"dl -e 5 -f 3836 -st \"Wait ryo, are we actually{n}witnessing sesbian lex{n}here?%textsize:60%%strokewidth:5.0%%annotate:+430,+175%\""}
