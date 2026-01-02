@@ -956,3 +956,7 @@
 {"kitan_id":"kitan_8fj1nNOMbNbg","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"SESBIAN LEX%font:upr%%textsize:100%%strokewidth:4.0%\""}
 {"kitan_id":"kitan_odjn3swS0Pxr","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"SESBIAN LEX%font:upr%%textsize:100%%strokewidth:4.0%\""}
 {"kitan_id":"kitan_KxwdAkb1IJUY","command":"!dl --crop [x1:1280,x2:1920,y1:90,y2:1080] -st \"Kasih Sayang Atmint%font:upr%%textsize:100%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_VK4vRS2OxSTi","command":"dl -e 4 -f 3700"}
+{"kitan_id":"kitan_ytlIYitXUps8","command":"!dl -st \"Halah nyocot\""}
+{"kitan_id":"kitan_xzjhzmCuWOSV","command":"dl -e 4 -f 3700 -a [f:--url ibb:hFM59Yrd -at ol]"}
+{"kitan_id":"kitan_2JNzBSsgK46k","command":"dl -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]]"}
