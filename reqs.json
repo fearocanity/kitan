@@ -960,3 +960,18 @@
 {"kitan_id":"kitan_ytlIYitXUps8","command":"!dl -st \"Halah nyocot\""}
 {"kitan_id":"kitan_xzjhzmCuWOSV","command":"dl -e 4 -f 3700 -a [f:--url ibb:hFM59Yrd -at ol]"}
 {"kitan_id":"kitan_2JNzBSsgK46k","command":"dl -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]]"}
+{"kitan_id":"kitan_MNZ6NYz2UPbk","command":"!dl -q -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]]"}
+{"kitan_id":"kitan_1LwaVVi6A3MU","command":"!dl -g 8"}
+{"kitan_id":"kitan_iUR6ef3Csi04","command":"!dl --crop [x1:0,x2:720,y1:0,y2:1080]"}
+{"kitan_id":"kitan_GOQdfMWDyVmk","command":"!dl --crop [x1:0,x2:720,y1:0,y2:1080] -st \"swallow it%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_qG3JwZEWg70n","command":"!dl --crop [x1:0,x2:720,y1:0,y2:1080] -st \"swallow it%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_BHMbghLS2jR1","command":"!dl --crop [x1:720,x2:1440,y1:0,y2:1080]"}
+{"kitan_id":"kitan_VNrT3G24WKw9","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080]"}
+{"kitan_id":"kitan_156jVXOtyTsj","command":"dl -e 5 -f 3871 -g 8"}
+{"kitan_id":"kitan_qjmLRE1dfDKv","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"ughh%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_R1k1BjFbhApg","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"ughh%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_T5TfPJ148pIA","command":"dl -e 5 -f 3871 -g 8 -c [x1:830,x2:1920,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_HfnmIroE1nqN","command":"dl -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:830,x2:1920,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_45r4AgmLQpG0","command":"dl -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_XvkFeJkLvPKR","command":"!dl -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}] --heart \"kirls gissing\""}
+{"kitan_id":"kitan_raGH9Wj85FKg","command":"!dl -q -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}] --heart \"kirls gissing\""}
