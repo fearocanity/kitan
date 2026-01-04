@@ -980,3 +980,6 @@
 {"kitan_id":"kitan_rM8P3PEcLW2N","command":"!dl -q -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}] --heart \"kirls gissing\""}
 {"kitan_id":"kitan_j7lpkacHeG1h","command":"!dl -q -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}] --heart \"kirls gissing\""}
 {"kitan_id":"kitan_dmcvLYTO1Qj6","command":"!dl -q -e 5 -f 3868 -a [f:--url ibb:SwR0F3rF -at ol --size [width:1920]] -c [x1:520,x2:1740,y1:0,y2:{h}]"}
+{"kitan_id":"kitan_ZLsfC9J5Phr8","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"ughh%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_hWq1K8CQxcZF","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"eneg%20njir%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_6C7kF2K6oePg","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"🏳️‍🌈?%font:upr%%textsize:100%%strokewidth:5.0%\""}
