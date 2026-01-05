@@ -983,3 +983,7 @@
 {"kitan_id":"kitan_ZLsfC9J5Phr8","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"ughh%font:upr%%textsize:100%%strokewidth:5.0%\""}
 {"kitan_id":"kitan_hWq1K8CQxcZF","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"eneg%20njir%font:upr%%textsize:100%%strokewidth:5.0%\""}
 {"kitan_id":"kitan_6C7kF2K6oePg","command":"!dl --crop [x1:720,x2:1680,y1:0,y2:1080] -st \"🏳️‍🌈?%font:upr%%textsize:100%%strokewidth:5.0%\""}
+{"kitan_id":"kitan_rCH5lSSbCW10","command":"dl -e 5 -f 4213 -a [f:--url ibb:N269b9dg -at ol --size [width:1920]] -a [f:-e 5 -f 4213 -at ol --rembg]"}
+{"kitan_id":"kitan_WzlQ38Sv6yCg","command":"dl -e 5 -f 4213 -a [f:--url ibb:N269b9dg -at ol --size [width:1920]] -a [f:-e 5 -f 4213 -at ol --rembg] -st \"Love, is the adobo not cooked yet?%textsize:50%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_iiYtGC24k8oQ","command":"dl -e 5 -f 4213 -a [f:--url ibb:N269b9dg -at ol --size [width:1920]] -a [f:-e 5 -f 4213 -at ol --rembg] -st \"Love, is the adobo still not cooked yet?%textsize:50%%strokewidth:4.0%\""}
+{"kitan_id":"kitan_y6Tc4UrEKxep","command":"!dl -e 5 -f 4213 -a [f:--url ibb:N269b9dg -at ol --size [width:1920]] -a [f:-e 5 -f 4213 -at ol --rembg] -st \"Love, is the adobo still not cooked yet?%textsize:50%%strokewidth:4.0%\""}
