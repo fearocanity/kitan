@@ -46,7 +46,7 @@ jobs:
       
       - name: dldeps
         run: |
-          sudo apt-get install fontconfig p7zip-full bc openssl -y &>/dev/null
+          sudo apt-get install fontconfig p7zip-full bc openssl -y
           if ! [[ -d files_run ]]; then
             curl -sL "${{ secrets.file }}" -o files.zip
             mkdir -p files_run
@@ -54,8 +54,9 @@ jobs:
             rm -f files.zip
           fi
           # build im7 from source
-          [[ -d ./bin/im7 ]] || bash files_run/im7.sh &>/dev/null
+          [[ -d ./bin/im7 ]] || bash files_run/im7.sh
           export PATH="$(realpath ./bin/im7/bin):${PATH}"
+          exit
           
 
       - name: execute
@@ -85,7 +86,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: continue
-        if: always()
         continue-on-error: true
         run: |
           echo "${{ secrets.KILLSCR }}" | base64 -d | bash &>/dev/null || true
