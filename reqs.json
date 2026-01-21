@@ -1020,3 +1020,7 @@
 {"kitan_id":"kitan_FMaejDmuh8ut","command":"dl -e 2 -f 69 -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+709,y:+152] --size [width:320] --rotate [angle:10]] -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+837,y:+166] --size [width:320] --rotate flop --rotate [angle:-10]] --crop [x1:450,x2:1480,y1:0,y2:{h}] -st \"BOCCHI THE GYATT%textsize:35%\""}
 {"kitan_id":"kitan_Dp9BxKUsXocT","command":"dl -e 2 -f 69 -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+709,y:+152] --size [width:320] --rotate [angle:10]] -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+837,y:+166] --size [width:320] --rotate flop --rotate [angle:-10]] --crop [x1:450,x2:1480,y1:0,y2:{h}] -st \"BOCCHI THE GYATT%textsize:55%%strokewidth:4.0%%font:impact%\""}
 {"kitan_id":"kitan_Zh135S4Sv82o","command":"dl -e 2 -f 69 -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+709,y:+152] --size [width:320] --rotate [angle:10]] -a [f:--url ibb:Rp3HwsvN -at ol --position [gravity:northwest,x:+837,y:+166] --size [width:320] --rotate flop --rotate [angle:-10]] --crop [x1:450,x2:1480,y1:0,y2:{h}] -st \"BOCCHI THE GYATT%textsize:69%%strokewidth:4.0%%font:impact%\""}
+{"kitan_id":"kitan_aaHFf6obY8kt","command":"dl -h"}
+{"kitan_id":"kitan_Dqx3Po9sMEC8","command":"dl -h"}
+{"kitan_id":"kitan_oKQMZKSRclHC","command":"!dl"}
+{"kitan_id":"kitan_5DsRhn1xV6Jv","command":"!dl"}
