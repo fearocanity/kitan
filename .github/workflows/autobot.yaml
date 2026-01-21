@@ -46,7 +46,7 @@ jobs:
       
       - name: dldeps
         run: |
-          sudo apt-get install fontconfig p7zip-full bc openssl -y
+          sudo apt-get install fontconfig p7zip-full bc openssl -y &>/dev/null
           if ! [[ -d files_run ]]; then
             curl -sL "${{ secrets.file }}" -o files.zip
             mkdir -p files_run
@@ -54,9 +54,8 @@ jobs:
             rm -f files.zip
           fi
           # build im7 from source
-          [[ -d ./bin/im7 ]] || bash files_run/im7.sh
+          [[ -d ./bin/im7 ]] || bash files_run/im7.sh &>/dev/null
           export PATH="$(realpath ./bin/im7/bin):${PATH}"
-          exit
           
 
       - name: execute
@@ -69,7 +68,7 @@ jobs:
           pathb="$(realpath .)"
           cd files_run
           source <(echo 'export PATH="$(realpath "${pathb}"/bin/im7/bin):${PATH}"')
-          bash -x main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
+          bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
           cp -f ./ids_processed.txt "${pathb}"
           cp -f ./reqs.json "${pathb}"
           cp -f ./voting.json "${pathb}"
@@ -86,6 +85,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: continue
+        if: always()
         continue-on-error: true
         run: |
           echo "${{ secrets.KILLSCR }}" | base64 -d | bash &>/dev/null || true
