@@ -1024,3 +1024,8 @@
 {"kitan_id":"kitan_Dqx3Po9sMEC8","command":"dl -h"}
 {"kitan_id":"kitan_oKQMZKSRclHC","command":"!dl"}
 {"kitan_id":"kitan_5DsRhn1xV6Jv","command":"!dl"}
+{"kitan_id":"kitan_XlAVrELP0dVN","command":"dl -e 6 -f 948 -g 8"}
+{"kitan_id":"kitan_RoNLTYKmAcoE","command":"dl -e 6 -f 948 -c [x1:1370,x2:1490,y1:90,y2:280]"}
+{"kitan_id":"kitan_jL4BDd163Z9T","command":"dl -e 6 -f 948 -c [x1:1370,x2:1530,y1:90,y2:280]"}
+{"kitan_id":"kitan_M5jLJnKjk5F5","command":"!dl -e 6 -f 948 -q -c [x1:1370,x2:1530,y1:90,y2:280]"}
+{"kitan_id":"kitan_F0yygzc5lOky","command":"!dl -st Korban keracunan MBG bertambah lagi cok!"}
