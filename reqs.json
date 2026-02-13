@@ -1034,3 +1034,7 @@
 {"kitan_id":"kitan_UL44NNT9lIYB","command":"!dl -t \"emuach\""}
 {"kitan_id":"kitan_05u5FyRn7EQW","command":"!dl -q -t \"emuach\""}
 {"kitan_id":"kitan_0FfKHVslVPMb","command":"!dl"}
+{"kitan_id":"kitan_kNhfU4XdOoJY","command":"dl -e 3 -f 3035 --crop [x1:500,x2:1680,y1:0,y2:{h}] --append [f:--url ibb:gZpkcGRt -at stick]"}
+{"kitan_id":"kitan_I1UO9ALk2PXY","command":"!dl -st Duh keluar dikit"}
+{"kitan_id":"kitan_kQXZNKasJ7zc","command":"!dl -st \"Duh, keluar dikit\""}
+{"kitan_id":"kitan_j4z5uIbw5ECM","command":"!dl -st \"ahh crooot\""}
