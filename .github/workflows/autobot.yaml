@@ -68,7 +68,7 @@ jobs:
           pathb="$(realpath .)"
           cd files_run
           source <(echo 'export PATH="$(realpath "${pathb}"/bin/im7/bin):${PATH}"')
-          bash main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
+          bash -x main.sh "${{ secrets.FBTOK }}" "${{ secrets.DISCTOK }}" "${{ secrets.DISCCHAN }}" "${{ secrets.GITTOK }}"
           cp -f ./ids_processed.txt "${pathb}"
           cp -f ./reqs.json "${pathb}"
           cp -f ./voting.json "${pathb}"
