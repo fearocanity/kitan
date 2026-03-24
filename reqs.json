@@ -1057,3 +1057,9 @@
 {"kitan_id":"kitan_NupURHuRkoHU","command":"dl -e 6 -f 2970 -g 8"}
 {"kitan_id":"kitan_XnUhXM75NcaZ","command":"!dl -e 6 -f 3254 -st \"Vamo a calmarno.\""}
 {"kitan_id":"kitan_xFPpdLvn0Y81","command":"dl -e 6 -f 22 -g 8"}
+{"kitan_id":"kitan_H9XvAN2pv8cS","command":"dl -e 7 -f 22"}
+{"kitan_id":"kitan_WZ5RWxRHTtQS","command":"dl -e 7 -f 22 -g 8"}
+{"kitan_id":"kitan_zq5lMl2yClNT","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:685]"}
+{"kitan_id":"kitan_ozW9g3E1ofGM","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:685]"}
+{"kitan_id":"kitan_04u5dNZKajLQ","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:650]"}
+{"kitan_id":"kitan_LI78CSowIg94","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:635]"}
