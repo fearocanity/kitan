@@ -1063,3 +1063,5 @@
 {"kitan_id":"kitan_ozW9g3E1ofGM","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:685]"}
 {"kitan_id":"kitan_04u5dNZKajLQ","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:650]"}
 {"kitan_id":"kitan_LI78CSowIg94","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:635]"}
+{"kitan_id":"kitan_4JPGCuaRvLUB","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160]]"}
+{"kitan_id":"kitan_89pxeI2XbnNU","command":"!dl --crop [x1:650,x2:810,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160]] -q"}
