@@ -1065,3 +1065,12 @@
 {"kitan_id":"kitan_LI78CSowIg94","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:635]"}
 {"kitan_id":"kitan_4JPGCuaRvLUB","command":"dl -e 7 -f 22 --crop [x1:650,x2:810,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160]]"}
 {"kitan_id":"kitan_89pxeI2XbnNU","command":"!dl --crop [x1:650,x2:810,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160]] -q"}
+{"kitan_id":"kitan_foyYOydkfCDK","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:200] --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_oORVgiCvSaGW","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160] --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_VbtPLimDKcP7","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160] --position [gravity:south,x:+0,y:+0]] -u"}
+{"kitan_id":"kitan_Kri9AtpnXtiY","command":"dl -h"}
+{"kitan_id":"kitan_ZQL1j4wDJAEK","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:160] --position [gravity:south,x:+0,y:+0]] --blur [sigma:2.0,radius:2.0]"}
+{"kitan_id":"kitan_lmiqntah12wV","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]] --blur [sigma:1.0,radius:1.0]"}
+{"kitan_id":"kitan_Ytq0ynW1ETF5","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]] --blur [sigma:0.4,radius:0.4]"}
+{"kitan_id":"kitan_79VXAzVRTizS","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]] --blur [sigma:0.1,radius:0.1]"}
+{"kitan_id":"kitan_LbyHxjBL9Yph","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]]"}
