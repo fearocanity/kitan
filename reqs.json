@@ -1075,3 +1075,4 @@
 {"kitan_id":"kitan_79VXAzVRTizS","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]] --blur [sigma:0.1,radius:0.1]"}
 {"kitan_id":"kitan_LbyHxjBL9Yph","command":"dl -e 7 -f 22 --crop [x1:590,x2:870,y1:405,y2:635] -a [f:--url ibb:4n5vgWf7 -at ol --size [w:170] --position [gravity:south,x:+0,y:+0]]"}
 {"kitan_id":"kitan_e6gaURlAA8Xb","command":"!dl -u"}
+{"kitan_id":"kitan_kz14llGUBtwt","command":"!dl -e 7 -f 4756 --crop [x1:130,x2:950,y1:100,y2:950,cw:30]"}
