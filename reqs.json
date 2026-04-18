@@ -1094,3 +1094,5 @@
 {"kitan_id":"kitan_JCCuZNU3VwBL","command":"dl -h"}
 {"kitan_id":"kitan_y7dH4tTGAj2l","command":"!dl"}
 {"kitan_id":"kitan_fpEIYljlRv67","command":"!dl"}
+{"kitan_id":"kitan_l9q6qUMPEyBB","command":"!dl -q --heart \"heil bocchers\""}
+{"kitan_id":"kitan_KGXODOB990xg","command":"!dl -e 7 -f 2352 -st \"Sieg Heil, muddafucka\""}
