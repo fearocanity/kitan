@@ -1130,3 +1130,4 @@
 {"kitan_id":"kitan_hR1DEshbtAD4","command":"dl -e 7 -f 3684 -a [f:--url ibb:j9whGYTY -at ol --position [gravity:northwest,x:+760,y:+724] --size [width:290] --rotate [angle:10]] -c [x1:340,x2:1200,y1:175,y2:1080]"}
 {"kitan_id":"kitan_EPNvKrk4elFN","command":"dl -e 7 -f 4756 --crop [x1:130,x2:950,y1:100,y2:950,cw:30]"}
 {"kitan_id":"kitan_6EgR6ncGaxkh","command":"dl -e 7 -f 4756 --crop [x1:130,x2:950,y1:100,y2:950]"}
+{"kitan_id":"kitan_4434tGKVMvHU","command":"!dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 -at ol --rembg]"}
