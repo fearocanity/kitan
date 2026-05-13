@@ -1131,3 +1131,10 @@
 {"kitan_id":"kitan_EPNvKrk4elFN","command":"dl -e 7 -f 4756 --crop [x1:130,x2:950,y1:100,y2:950,cw:30]"}
 {"kitan_id":"kitan_6EgR6ncGaxkh","command":"dl -e 7 -f 4756 --crop [x1:130,x2:950,y1:100,y2:950]"}
 {"kitan_id":"kitan_4434tGKVMvHU","command":"!dl -e 5 -f 1323 -a [f:--url ibb:VYgcv3Pb -at ol --size [width:1920]] -a [f:-e 5 -f 1323 -at ol --rembg]"}
+{"kitan_id":"kitan_iLsYZsP4kBD0","command":"dl -e 7 -f 3968 -st \"He's big. *gulp*%textsize:40%\""}
+{"kitan_id":"kitan_Ob7S3WTfppVN","command":"dl -e 7 -f 3968 -st \"He's big. *gulp*%textsize:60%\""}
+{"kitan_id":"kitan_mGDPSJ6ndLeb","command":"dl -e 7 -f 3968 -st \"He's big. *gulp*%textsize:60%%strokewidth:5%\""}
+{"kitan_id":"kitan_TrFMCPbxKSoi","command":"dl -e 7 -f 3968 -st \"He's big.%textsize:60%%strokewidth:5%\" -st \"*gulp*%textsize:60%%strokewidth:5%%gravity:north%\""}
+{"kitan_id":"kitan_Nkl1YasA9nfC","command":"dl -e 7 -f 3968 -st \"He's big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
+{"kitan_id":"kitan_Z0QEAthdsCus","command":"dl -e 7 -f 3968 -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
+{"kitan_id":"kitan_3J86d4ftfqdh","command":"!dl -e 7 -f 3968 -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
