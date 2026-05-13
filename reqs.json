@@ -1138,3 +1138,6 @@
 {"kitan_id":"kitan_Nkl1YasA9nfC","command":"dl -e 7 -f 3968 -st \"He's big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
 {"kitan_id":"kitan_Z0QEAthdsCus","command":"dl -e 7 -f 3968 -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
 {"kitan_id":"kitan_3J86d4ftfqdh","command":"!dl -e 7 -f 3968 -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
+{"kitan_id":"kitan_7Fa4xETAFshe","command":"dl -e 7 -f 3968"}
+{"kitan_id":"kitan_vPWDE69pp1M3","command":"dl -e 7 -f 3968 -a [f:--url ibb:S4c1ZhrY -at ol] -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
+{"kitan_id":"kitan_sIotlMZmkaZ5","command":"dl -e 7 -f 3863 -g 8"}
