@@ -1141,3 +1141,4 @@
 {"kitan_id":"kitan_7Fa4xETAFshe","command":"dl -e 7 -f 3968"}
 {"kitan_id":"kitan_vPWDE69pp1M3","command":"dl -e 7 -f 3968 -a [f:--url ibb:S4c1ZhrY -at ol] -st \"He’s big.%textsize:50%%strokewidth:5%\" -st \"*gulp*%textsize:50%%strokewidth:5%%gravity:north%\""}
 {"kitan_id":"kitan_sIotlMZmkaZ5","command":"dl -e 7 -f 3863 -g 8"}
+{"kitan_id":"kitan_tfMeoajcntyW","command":"!dl"}
